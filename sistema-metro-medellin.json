@@ -1,0 +1,2674 @@
+[
+  {
+    "id": 1,
+    "type": "Metro",
+    "name": "Estación Acevedo (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "4",
+    "geometry": {
+      "x": -8411139.946413824,
+      "y": 702723.8251508176
+    },
+    "coords": {
+      "latitude": -75.55855570731791,
+      "longitude": 6.299942590537406
+    }
+  },
+  {
+    "id": 2,
+    "type": "Metro",
+    "name": "Estación Tricentenario (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "5",
+    "geometry": {
+      "x": -8411825.788050499,
+      "y": 701645.6234568916
+    },
+    "coords": {
+      "latitude": -75.56471672756501,
+      "longitude": 6.290315341690452
+    }
+  },
+  {
+    "id": 3,
+    "type": "Metro",
+    "name": "Estación Caribe (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "6",
+    "geometry": {
+      "x": -8412347.668071002,
+      "y": 700302.9655473903
+    },
+    "coords": {
+      "latitude": -75.56940485555396,
+      "longitude": 6.278326517494364
+    }
+  },
+  {
+    "id": 4,
+    "type": "Metro",
+    "name": "Estación Universidad (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "7",
+    "geometry": {
+      "x": -8411949.493860526,
+      "y": 699306.9511994421
+    },
+    "coords": {
+      "latitude": -75.56582799576383,
+      "longitude": 6.26943275514449
+    }
+  },
+  {
+    "id": 5,
+    "type": "Metro",
+    "name": "Estación Hospital (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "8",
+    "geometry": {
+      "x": -8411671.952872962,
+      "y": 698689.5319041386
+    },
+    "coords": {
+      "latitude": -75.56333480265285,
+      "longitude": 6.26391952498488
+    }
+  },
+  {
+    "id": 6,
+    "type": "Metro",
+    "name": "Estación Prado (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "9",
+    "geometry": {
+      "x": -8411987.805523543,
+      "y": 697897.8535465524
+    },
+    "coords": {
+      "latitude": -75.56617215528831,
+      "longitude": 6.25685016769017
+    }
+  },
+  {
+    "id": 7,
+    "type": "Metro",
+    "name": "Estación Parque Berrío (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "10",
+    "geometry": {
+      "x": -8412217.5440064,
+      "y": 697186.9040006138
+    },
+    "coords": {
+      "latitude": -75.56823593119333,
+      "longitude": 6.250501603482671
+    }
+  },
+  {
+    "id": 8,
+    "type": "Metro",
+    "name": "Estación San Antonio (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "11",
+    "geometry": {
+      "x": -8412380.902729679,
+      "y": 696816.5633831136
+    },
+    "coords": {
+      "latitude": -75.56970340757248,
+      "longitude": 6.24719454336262
+    }
+  },
+  {
+    "id": 9,
+    "type": "Metro",
+    "name": "Estación Cisneros (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "22",
+    "geometry": {
+      "x": -8412987.43477372,
+      "y": 697024.7461013161
+    },
+    "coords": {
+      "latitude": -75.57515197762719,
+      "longitude": 6.2490535717412055
+    }
+  },
+  {
+    "id": 10,
+    "type": "Metro",
+    "name": "Estación Alpujarra (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "12",
+    "geometry": {
+      "x": -8412572.581581168,
+      "y": 696337.5591830239
+    },
+    "coords": {
+      "latitude": -75.57142528799183,
+      "longitude": 6.242917110401074
+    }
+  },
+  {
+    "id": 11,
+    "type": "Metro",
+    "name": "Estación Exposiciones (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "13",
+    "geometry": {
+      "x": -8412766.095455257,
+      "y": 695833.9423932433
+    },
+    "coords": {
+      "latitude": -75.57316365269966,
+      "longitude": 6.238419853172829
+    }
+  },
+  {
+    "id": 12,
+    "type": "Metro",
+    "name": "Estación Industriales (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "14",
+    "geometry": {
+      "x": -8413039.370064307,
+      "y": 694901.2172282264
+    },
+    "coords": {
+      "latitude": -75.57561852028039,
+      "longitude": 6.230090590943428
+    }
+  },
+  {
+    "id": 13,
+    "type": "Metro",
+    "name": "Estación Poblado (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "15",
+    "geometry": {
+      "x": -8413315.124207566,
+      "y": 692895.4225909784
+    },
+    "coords": {
+      "latitude": -75.57809566189586,
+      "longitude": 6.21217834028053
+    }
+  },
+  {
+    "id": 14,
+    "type": "Metro",
+    "name": "Estación Aguacatala (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "16",
+    "geometry": {
+      "x": -8413728.55165379,
+      "y": 690850.902123794
+    },
+    "coords": {
+      "latitude": -75.58180954383404,
+      "longitude": 6.1939196308942
+    }
+  },
+  {
+    "id": 15,
+    "type": "Metro",
+    "name": "Estación Suramericana (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "23",
+    "geometry": {
+      "x": -8413854.583999757,
+      "y": 697464.9014941938
+    },
+    "coords": {
+      "latitude": -75.5829417116608,
+      "longitude": 6.252984046115051
+    }
+  },
+  {
+    "id": 16,
+    "type": "Metro",
+    "name": "Estación Estadio (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "24",
+    "geometry": {
+      "x": -8414446.209508117,
+      "y": 697504.2737789713
+    },
+    "coords": {
+      "latitude": -75.58825637402715,
+      "longitude": 6.253335629045448
+    }
+  },
+  {
+    "id": 17,
+    "type": "Metro",
+    "name": "Estación Floresta (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "25",
+    "geometry": {
+      "x": -8415502.333792647,
+      "y": 698106.022932563
+    },
+    "coords": {
+      "latitude": -75.59774369989438,
+      "longitude": 6.258709042690896
+    }
+  },
+  {
+    "id": 18,
+    "type": "Metro",
+    "name": "Estación Santa Lucia (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "26",
+    "geometry": {
+      "x": -8416170.534493655,
+      "y": 698036.4978651367
+    },
+    "coords": {
+      "latitude": -75.60374624892013,
+      "longitude": 6.258088210496846
+    }
+  },
+  {
+    "id": 19,
+    "type": "Metro",
+    "name": "Estación San Javier (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "27",
+    "geometry": {
+      "x": -8417274.596242286,
+      "y": 697890.0999583416
+    },
+    "coords": {
+      "latitude": -75.61366420435421,
+      "longitude": 6.256780930910654
+    }
+  },
+  {
+    "id": 20,
+    "type": "Metro",
+    "name": "Estación Madera (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "3",
+    "geometry": {
+      "x": -8410780.248991588,
+      "y": 704508.4259516113
+    },
+    "coords": {
+      "latitude": -75.55532449039738,
+      "longitude": 6.3158768752425605
+    }
+  },
+  {
+    "id": 21,
+    "type": "Metro",
+    "name": "Estación Bello (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "2",
+    "geometry": {
+      "x": -8410592.184890069,
+      "y": 706101.1698643602
+    },
+    "coords": {
+      "latitude": -75.5536350818295,
+      "longitude": 6.330097700334238
+    }
+  },
+  {
+    "id": 22,
+    "type": "Metro",
+    "name": "Estación Niquía (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "1",
+    "geometry": {
+      "x": -8409551.605592323,
+      "y": 706966.9316947274
+    },
+    "coords": {
+      "latitude": -75.54428739895445,
+      "longitude": 6.337827496650861
+    }
+  },
+  {
+    "id": 23,
+    "type": "Metro",
+    "name": "Estación Ayurá (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "17",
+    "geometry": {
+      "x": -8414202.140232682,
+      "y": 689982.2189485095
+    },
+    "coords": {
+      "latitude": -75.58606386242208,
+      "longitude": 6.1861616138219215
+    }
+  },
+  {
+    "id": 24,
+    "type": "Metro",
+    "name": "Estación Envigado (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "18",
+    "geometry": {
+      "x": -8415426.833563069,
+      "y": 688697.3077383079
+    },
+    "coords": {
+      "latitude": -75.59706546979254,
+      "longitude": 6.174686147616657
+    }
+  },
+  {
+    "id": 25,
+    "type": "Metro",
+    "name": "Estación Itaguí (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "19",
+    "geometry": {
+      "x": -8416517.517348012,
+      "y": 687376.9651625752
+    },
+    "coords": {
+      "latitude": -75.60686324893409,
+      "longitude": 6.162893986941232
+    }
+  },
+  {
+    "id": 26,
+    "type": "Metro",
+    "name": "Estación Sabaneta (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "20",
+    "geometry": {
+      "x": -8417561.59770524,
+      "y": 686794.1856598854
+    },
+    "coords": {
+      "latitude": -75.61624238236155,
+      "longitude": 6.157689019859849
+    }
+  },
+  {
+    "id": 27,
+    "type": "Metro",
+    "name": "Estación La Estrella (Línea A)",
+    "line": "A",
+    "lineDescription": "Niquía - La Estrella",
+    "stationId": "21",
+    "geometry": {
+      "x": -8418688.244126657,
+      "y": 686245.0248689353
+    },
+    "coords": {
+      "latitude": -75.62636321936313,
+      "longitude": 6.152784264230396
+    }
+  },
+  {
+    "id": 28,
+    "type": "Metro",
+    "name": "Estación San Antonio (Línea B)",
+    "line": "B",
+    "lineDescription": "San Antonio - San Javier",
+    "stationId": "11",
+    "geometry": {
+      "x": -8412383.629314618,
+      "y": 696817.4365738891
+    },
+    "coords": {
+      "latitude": -75.56972790090173,
+      "longitude": 6.2472023407884425
+    }
+  },
+  {
+    "id": 29,
+    "type": "Cable",
+    "name": "Estación Arví (Línea L)",
+    "line": "L",
+    "lineDescription": "Santo Domingo - Arví",
+    "stationId": "35",
+    "geometry": {
+      "x": -8404952.366466336,
+      "y": 700663.4923965856
+    },
+    "coords": {
+      "latitude": -75.50297173093252,
+      "longitude": 6.281545751078872
+    }
+  },
+  {
+    "id": 30,
+    "type": "Cable",
+    "name": "Estación Santo Domingo (Línea K)",
+    "line": "K",
+    "lineDescription": "Acevedo - Santo Domingo",
+    "stationId": "33",
+    "geometry": {
+      "x": -8409266.61465615,
+      "y": 701964.138602823
+    },
+    "coords": {
+      "latitude": -75.54172728181646,
+      "longitude": 6.293159377839375
+    }
+  },
+  {
+    "id": 31,
+    "type": "Cable",
+    "name": "Estación Popular (Línea K)",
+    "line": "K",
+    "lineDescription": "Acevedo - Santo Domingo",
+    "stationId": "32",
+    "geometry": {
+      "x": -8409980.627056561,
+      "y": 702184.0084713064
+    },
+    "coords": {
+      "latitude": -75.54814136433987,
+      "longitude": 6.295122596760645
+    }
+  },
+  {
+    "id": 32,
+    "type": "Cable",
+    "name": "Estación Andalucía (Línea K)",
+    "line": "K",
+    "lineDescription": "Acevedo - Santo Domingo",
+    "stationId": "31",
+    "geometry": {
+      "x": -8410398.695304738,
+      "y": 702312.7418855205
+    },
+    "coords": {
+      "latitude": -75.55189693531129,
+      "longitude": 6.296272054478749
+    }
+  },
+  {
+    "id": 33,
+    "type": "Cable",
+    "name": "Estación Juan XXIII (Línea J)",
+    "line": "J",
+    "lineDescription": "San Javier - La Aurora",
+    "stationId": "28",
+    "geometry": {
+      "x": -8417278.867182791,
+      "y": 698886.2958928794
+    },
+    "coords": {
+      "latitude": -75.61370257086553,
+      "longitude": 6.265676530426619
+    }
+  },
+  {
+    "id": 34,
+    "type": "Cable",
+    "name": "Estación Vallejuelos (Línea J)",
+    "line": "J",
+    "lineDescription": "San Javier - La Aurora",
+    "stationId": "29",
+    "geometry": {
+      "x": -8417313.886676649,
+      "y": 699970.8288010806
+    },
+    "coords": {
+      "latitude": -75.61401715633127,
+      "longitude": 6.275360768563115
+    }
+  },
+  {
+    "id": 35,
+    "type": "Cable",
+    "name": "Estación La Aurora (Línea J)",
+    "line": "J",
+    "lineDescription": "San Javier - La Aurora",
+    "stationId": "30",
+    "geometry": {
+      "x": -8417334.61646028,
+      "y": 700612.8076130785
+    },
+    "coords": {
+      "latitude": -75.614203375146,
+      "longitude": 6.281093175288447
+    }
+  },
+  {
+    "id": 36,
+    "type": "Cable",
+    "name": "Estación 13 de Noviembre (Línea M)",
+    "line": "M",
+    "lineDescription": "Miraflores - Trece de Noviembre",
+    "stationId": "81",
+    "geometry": {
+      "x": -8409229.56995778,
+      "y": 696863.6681440473
+    },
+    "coords": {
+      "latitude": -75.54139450362904,
+      "longitude": 6.2476151796596255
+    }
+  },
+  {
+    "id": 37,
+    "type": "Cable",
+    "name": "Estación Villa Sierra (Línea H)",
+    "line": "H",
+    "lineDescription": "Oriente - Villa Sierra",
+    "stationId": "91",
+    "geometry": {
+      "x": -8407814.13961657,
+      "y": 695436.9307390153
+    },
+    "coords": {
+      "latitude": -75.52867947653789,
+      "longitude": 6.234874543987485
+    }
+  },
+  {
+    "id": 38,
+    "type": "Cable",
+    "name": "Estación El Pinal (Línea M)",
+    "line": "M",
+    "lineDescription": "Miraflores - Trece de Noviembre",
+    "stationId": "80",
+    "geometry": {
+      "x": -8409572.595496878,
+      "y": 696600.2709054686
+    },
+    "coords": {
+      "latitude": -75.54447595447519,
+      "longitude": 6.245263089524983
+    }
+  },
+  {
+    "id": 39,
+    "type": "Cable",
+    "name": "Estación Las Torres (Línea H)",
+    "line": "H",
+    "lineDescription": "Oriente - Villa Sierra",
+    "stationId": "90",
+    "geometry": {
+      "x": -8408670.480351632,
+      "y": 695635.2364601493
+    },
+    "coords": {
+      "latitude": -75.5363721162451,
+      "longitude": 6.236645414632919
+    }
+  },
+  {
+    "id": 40,
+    "type": "Cable",
+    "name": "Estación Santo Domingo (Línea L)",
+    "line": "L",
+    "lineDescription": "Santo Domingo - Arví",
+    "stationId": "33",
+    "geometry": {
+      "x": -8409280.011823073,
+      "y": 701915.2163672596
+    },
+    "coords": {
+      "latitude": -75.54184763061457,
+      "longitude": 6.292722549996391
+    }
+  },
+  {
+    "id": 41,
+    "type": "Cable",
+    "name": "Estación Acevedo (Línea K)",
+    "line": "K",
+    "lineDescription": "Acevedo - Santo Domingo",
+    "stationId": "4",
+    "geometry": {
+      "x": -8411112.374072596,
+      "y": 702760.737345811
+    },
+    "coords": {
+      "latitude": -75.55830802076247,
+      "longitude": 6.300272175884505
+    }
+  },
+  {
+    "id": 42,
+    "type": "Cable",
+    "name": "Estación Miraflores (Línea M)",
+    "line": "M",
+    "lineDescription": "Miraflores - Trece de Noviembre",
+    "stationId": "79",
+    "geometry": {
+      "x": -8410088.604926687,
+      "y": 696204.0390937999
+    },
+    "coords": {
+      "latitude": -75.54911134605067,
+      "longitude": 6.241724790556589
+    }
+  },
+  {
+    "id": 43,
+    "type": "Cable",
+    "name": "Estación Oriente (Línea H)",
+    "line": "H",
+    "lineDescription": "Oriente - Villa Sierra",
+    "stationId": "78",
+    "geometry": {
+      "x": -8409067.336648349,
+      "y": 695267.5549410731
+    },
+    "coords": {
+      "latitude": -75.53993713701449,
+      "longitude": 6.233362012902371
+    }
+  },
+  {
+    "id": 44,
+    "type": "Cable",
+    "name": "Estación San Javier (Línea J)",
+    "line": "J",
+    "lineDescription": "San Javier - La Aurora",
+    "stationId": "27",
+    "geometry": {
+      "x": -8417246.481070166,
+      "y": 697883.2956163213
+    },
+    "coords": {
+      "latitude": -75.61341164146589,
+      "longitude": 6.256720170553758
+    }
+  },
+  {
+    "id": 45,
+    "type": "T",
+    "name": "Estación Alejandro Echavarría (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "77",
+    "geometry": {
+      "x": -8409267.934036486,
+      "y": 695508.0285863653
+    },
+    "coords": {
+      "latitude": -75.54173913401166,
+      "longitude": 6.2355094486512535
+    }
+  },
+  {
+    "id": 46,
+    "type": "T",
+    "name": "Estación Bicentenario (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "73",
+    "geometry": {
+      "x": -8411162.984639002,
+      "y": 696453.3401722014
+    },
+    "coords": {
+      "latitude": -75.55876266321587,
+      "longitude": 6.243951019818232
+    }
+  },
+  {
+    "id": 47,
+    "type": "T",
+    "name": "Estación Loyola (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "76",
+    "geometry": {
+      "x": -8409650.484981284,
+      "y": 695902.0489728972
+    },
+    "coords": {
+      "latitude": -75.54517564761834,
+      "longitude": 6.239028041681428
+    }
+  },
+  {
+    "id": 48,
+    "type": "T",
+    "name": "Estación Oriente (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "78",
+    "geometry": {
+      "x": -8409089.890140086,
+      "y": 695243.8371346779
+    },
+    "coords": {
+      "latitude": -75.54013973847788,
+      "longitude": 6.233150211813639
+    }
+  },
+  {
+    "id": 49,
+    "type": "T",
+    "name": "Estación Pabellón del Agua (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "72",
+    "geometry": {
+      "x": -8411522.615832364,
+      "y": 696636.7257127985
+    },
+    "coords": {
+      "latitude": -75.56199328519232,
+      "longitude": 6.245588625051158
+    }
+  },
+  {
+    "id": 50,
+    "type": "T",
+    "name": "Estación San José (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "71",
+    "geometry": {
+      "x": -8411900.314769667,
+      "y": 696831.6394384317
+    },
+    "coords": {
+      "latitude": -75.56538621247405,
+      "longitude": 6.247329169623094
+    }
+  },
+  {
+    "id": 51,
+    "type": "T",
+    "name": "Estación Buenos Aires (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "74",
+    "geometry": {
+      "x": -8410621.675401343,
+      "y": 696167.581457749
+    },
+    "coords": {
+      "latitude": -75.55389999959962,
+      "longitude": 6.241399227368482
+    }
+  },
+  {
+    "id": 52,
+    "type": "T",
+    "name": "Estación Miraflores (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "75",
+    "geometry": {
+      "x": -8410076.587358626,
+      "y": 696166.3101701066
+    },
+    "coords": {
+      "latitude": -75.54900339039999,
+      "longitude": 6.2413878748883
+    }
+  },
+  {
+    "id": 53,
+    "type": "T",
+    "name": "Estación San Antonio (Línea T)",
+    "line": "T",
+    "lineDescription": "San Antonio - Oriente",
+    "stationId": "11",
+    "geometry": {
+      "x": -8412320.093658505,
+      "y": 696794.532384254
+    },
+    "coords": {
+      "latitude": -75.56915715039199,
+      "longitude": 6.246997810738122
+    }
+  },
+  {
+    "id": 54,
+    "type": "MPLUS",
+    "name": "Estación Universidad de Medellín (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "36",
+    "geometry": {
+      "x": -8416780.414847326,
+      "y": 694965.750858888
+    },
+    "coords": {
+      "latitude": -75.609224897352,
+      "longitude": 6.230666882357591
+    }
+  },
+  {
+    "id": 55,
+    "type": "MPLUS",
+    "name": "Parada Los Alpes (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "37",
+    "geometry": {
+      "x": -8416328.884844009,
+      "y": 695013.438976746
+    },
+    "coords": {
+      "latitude": -75.6051687343198,
+      "longitude": 6.231092741345503
+    }
+  },
+  {
+    "id": 56,
+    "type": "MPLUS",
+    "name": "Parada La Palma (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "38",
+    "geometry": {
+      "x": -8415867.926562104,
+      "y": 695022.9585668072
+    },
+    "coords": {
+      "latitude": -75.60102787562005,
+      "longitude": 6.231177752060899
+    }
+  },
+  {
+    "id": 57,
+    "type": "C",
+    "name": "Estación Doce de Octubre (Línea P)",
+    "line": "P",
+    "lineDescription": "Acevedo - El Progreso",
+    "stationId": "93",
+    "geometry": {
+      "x": -8413075.96008852,
+      "y": 703206.0407958813
+    },
+    "coords": {
+      "latitude": -75.57594721406033,
+      "longitude": 6.304248229956272
+    }
+  },
+  {
+    "id": 58,
+    "type": "C",
+    "name": "Estación El Progreso (Línea P)",
+    "line": "P",
+    "lineDescription": "Acevedo - El Progreso",
+    "stationId": "94",
+    "geometry": {
+      "x": -8413786.887899926,
+      "y": 703402.12396935
+    },
+    "coords": {
+      "latitude": -75.58233358724927,
+      "longitude": 6.305999020335661
+    }
+  },
+  {
+    "id": 59,
+    "type": "C",
+    "name": "Estación Acevedo (Línea P)",
+    "line": "P",
+    "lineDescription": "Acevedo - El Progreso",
+    "stationId": "4",
+    "geometry": {
+      "x": -8411168.028645765,
+      "y": 702679.7590184547
+    },
+    "coords": {
+      "latitude": -75.55880797429955,
+      "longitude": 6.2995491281153
+    }
+  },
+  {
+    "id": 60,
+    "type": "MPLUS",
+    "name": "Parada Parque Belén (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "39",
+    "geometry": {
+      "x": -8415391.71638483,
+      "y": 695047.4012135789
+    },
+    "coords": {
+      "latitude": -75.59675000681305,
+      "longitude": 6.231396026826381
+    }
+  },
+  {
+    "id": 61,
+    "type": "MPLUS",
+    "name": "Parada Rosales (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "40",
+    "geometry": {
+      "x": -8414748.290614119,
+      "y": 695069.815599367
+    },
+    "coords": {
+      "latitude": -75.5909700147728,
+      "longitude": 6.231596188981327
+    }
+  },
+  {
+    "id": 62,
+    "type": "MPLUS",
+    "name": "Parada Fátima (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "41",
+    "geometry": {
+      "x": -8414257.82788533,
+      "y": 695086.2239428274
+    },
+    "coords": {
+      "latitude": -75.58656411311718,
+      "longitude": 6.23174271667707
+    }
+  },
+  {
+    "id": 63,
+    "type": "MPLUS",
+    "name": "Parada Nutibara (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "42",
+    "geometry": {
+      "x": -8413756.227520164,
+      "y": 695099.9401455969
+    },
+    "coords": {
+      "latitude": -75.5820581603717,
+      "longitude": 6.231865203330026
+    }
+  },
+  {
+    "id": 64,
+    "type": "MPLUS",
+    "name": "Parada Plaza Mayor (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "44",
+    "geometry": {
+      "x": -8413015.125567608,
+      "y": 696420.9586193599
+    },
+    "coords": {
+      "latitude": -75.57540072826097,
+      "longitude": 6.243661856900746
+    }
+  },
+  {
+    "id": 65,
+    "type": "MPLUS",
+    "name": "Parada Cisneros (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "45",
+    "geometry": {
+      "x": -8412974.481670389,
+      "y": 697226.2726926245
+    },
+    "coords": {
+      "latitude": -75.5750356179202,
+      "longitude": 6.2508531559993825
+    }
+  },
+  {
+    "id": 66,
+    "type": "MPLUS",
+    "name": "Parada Minorista (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "46",
+    "geometry": {
+      "x": -8412764.044480693,
+      "y": 697812.8782943524
+    },
+    "coords": {
+      "latitude": -75.57314522848168,
+      "longitude": 6.256091368470663
+    }
+  },
+  {
+    "id": 67,
+    "type": "MPLUS",
+    "name": "Parada Chagualo (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "47",
+    "geometry": {
+      "x": -8412318.47549247,
+      "y": 698330.175726898
+    },
+    "coords": {
+      "latitude": -75.56914261415918,
+      "longitude": 6.26071063617311
+    }
+  },
+  {
+    "id": 68,
+    "type": "MPLUS",
+    "name": "Parada Ruta N (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "48",
+    "geometry": {
+      "x": -8412144.533081543,
+      "y": 698690.8244888186
+    },
+    "coords": {
+      "latitude": -75.56758006289625,
+      "longitude": 6.263931067148292
+    }
+  },
+  {
+    "id": 69,
+    "type": "MPLUS",
+    "name": "Parada San Pedro (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "49",
+    "geometry": {
+      "x": -8411319.643817777,
+      "y": 698641.0235958621
+    },
+    "coords": {
+      "latitude": -75.56016995656279,
+      "longitude": 6.26348636879114
+    }
+  },
+  {
+    "id": 70,
+    "type": "MPLUS",
+    "name": "Parada Palos Verdes (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "50",
+    "geometry": {
+      "x": -8410846.889692929,
+      "y": 698487.2325090803
+    },
+    "coords": {
+      "latitude": -75.55592313400297,
+      "longitude": 6.262113084926995
+    }
+  },
+  {
+    "id": 71,
+    "type": "MPLUS",
+    "name": "Parada Gardel (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "51",
+    "geometry": {
+      "x": -8410749.039529506,
+      "y": 699109.2934310324
+    },
+    "coords": {
+      "latitude": -75.5550441310294,
+      "longitude": 6.267667781383666
+    }
+  },
+  {
+    "id": 72,
+    "type": "MPLUS",
+    "name": "Parada Manrique (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "52",
+    "geometry": {
+      "x": -8410641.567478025,
+      "y": 699735.2758118175
+    },
+    "coords": {
+      "latitude": -75.5540786931648,
+      "longitude": 6.273257434823778
+    }
+  },
+  {
+    "id": 73,
+    "type": "MPLUS",
+    "name": "Parada Las Esmeraldas (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "53",
+    "geometry": {
+      "x": -8410540.192012006,
+      "y": 700310.4614066593
+    },
+    "coords": {
+      "latitude": -75.55316802185921,
+      "longitude": 6.278393450082059
+    }
+  },
+  {
+    "id": 74,
+    "type": "MPLUS",
+    "name": "Parada Berlin (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "54",
+    "geometry": {
+      "x": -8410514.58524709,
+      "y": 700818.7412014045
+    },
+    "coords": {
+      "latitude": -75.5529379923762,
+      "longitude": 6.282931999999727
+    }
+  },
+  {
+    "id": 75,
+    "type": "MPLUS",
+    "name": "Parada Parque Aranjuez (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "55",
+    "geometry": {
+      "x": -8410928.804640356,
+      "y": 701072.7547482587
+    },
+    "coords": {
+      "latitude": -75.5566589884957,
+      "longitude": 6.285200131913549
+    }
+  },
+  {
+    "id": 76,
+    "type": "MPLUS",
+    "name": "Paradero Barrio Colombia (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "608",
+    "geometry": {
+      "x": -8412523.675727956,
+      "y": 694737.0310130864
+    },
+    "coords": {
+      "latitude": -75.5709859592376,
+      "longitude": 6.228624389689293
+    }
+  },
+  {
+    "id": 77,
+    "type": "MPLUS",
+    "name": "Paradero Barrio Colombia (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "608",
+    "geometry": {
+      "x": -8412394.874234812,
+      "y": 694785.545660872
+    },
+    "coords": {
+      "latitude": -75.56982891573851,
+      "longitude": 6.229057631343316
+    }
+  },
+  {
+    "id": 78,
+    "type": "MPLUS",
+    "name": "Parada Perpetuo Socorro (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "609",
+    "geometry": {
+      "x": -8412418.62281621,
+      "y": 695348.9386097044
+    },
+    "coords": {
+      "latitude": -75.57004225287498,
+      "longitude": 6.234088772110743
+    }
+  },
+  {
+    "id": 79,
+    "type": "MPLUS",
+    "name": "Parada Barrio Colón (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "610",
+    "geometry": {
+      "x": -8412389.62385228,
+      "y": 696079.1512856781
+    },
+    "coords": {
+      "latitude": -75.56978175074975,
+      "longitude": 6.240609553585272
+    }
+  },
+  {
+    "id": 80,
+    "type": "MPLUS",
+    "name": "Parada San José (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "611",
+    "geometry": {
+      "x": -8411978.859747086,
+      "y": 696803.7613324486
+    },
+    "coords": {
+      "latitude": -75.56609179401111,
+      "longitude": 6.247080223497055
+    }
+  },
+  {
+    "id": 81,
+    "type": "MPLUS",
+    "name": "Parada La Playa (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "612",
+    "geometry": {
+      "x": -8411789.912057642,
+      "y": 697084.9203175567
+    },
+    "coords": {
+      "latitude": -75.56439444803785,
+      "longitude": 6.249590913747661
+    }
+  },
+  {
+    "id": 82,
+    "type": "MPLUS",
+    "name": "Parada Catedral Metropolitana (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "613",
+    "geometry": {
+      "x": -8411576.10216046,
+      "y": 697462.7442533262
+    },
+    "coords": {
+      "latitude": -75.5624737610525,
+      "longitude": 6.252964782581352
+    }
+  },
+  {
+    "id": 83,
+    "type": "MPLUS",
+    "name": "Paradero Prado (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "614",
+    "geometry": {
+      "x": -8411254.875684556,
+      "y": 698115.9009496197
+    },
+    "coords": {
+      "latitude": -75.55958813452281,
+      "longitude": 6.258797249535818
+    }
+  },
+  {
+    "id": 84,
+    "type": "MPLUS",
+    "name": "Paradero Prado (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "614",
+    "geometry": {
+      "x": -8411342.237758277,
+      "y": 698135.2850404233
+    },
+    "coords": {
+      "latitude": -75.56037292138357,
+      "longitude": 6.258970341873488
+    }
+  },
+  {
+    "id": 85,
+    "type": "MPLUS",
+    "name": "Paradero Palos Verdes (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "650",
+    "geometry": {
+      "x": -8410900.262473263,
+      "y": 698615.2205642164
+    },
+    "coords": {
+      "latitude": -75.55640258984627,
+      "longitude": 6.263255959806062
+    }
+  },
+  {
+    "id": 86,
+    "type": "MPLUS",
+    "name": "Parada Berlin (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "54",
+    "geometry": {
+      "x": -8410507.042085387,
+      "y": 700818.0626016185
+    },
+    "coords": {
+      "latitude": -75.5528702310017,
+      "longitude": 6.282925940648899
+    }
+  },
+  {
+    "id": 87,
+    "type": "MPLUS",
+    "name": "Parada Las Esmeraldas (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "53",
+    "geometry": {
+      "x": -8410535.511363264,
+      "y": 700309.7183149643
+    },
+    "coords": {
+      "latitude": -75.55312597487615,
+      "longitude": 6.278386814812445
+    }
+  },
+  {
+    "id": 88,
+    "type": "MPLUS",
+    "name": "Parada Manrique (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "52",
+    "geometry": {
+      "x": -8410635.429015197,
+      "y": 699734.2525218166
+    },
+    "coords": {
+      "latitude": -75.554023550415,
+      "longitude": 6.273248297496526
+    }
+  },
+  {
+    "id": 89,
+    "type": "MPLUS",
+    "name": "Parada Gardel (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "51",
+    "geometry": {
+      "x": -8410743.094945626,
+      "y": 699108.7875830568
+    },
+    "coords": {
+      "latitude": -75.55499072992383,
+      "longitude": 6.267663264435387
+    }
+  },
+  {
+    "id": 90,
+    "type": "MPLUS",
+    "name": "Parada Palos Verdes (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "50",
+    "geometry": {
+      "x": -8410835.099050948,
+      "y": 698482.711353261
+    },
+    "coords": {
+      "latitude": -75.55581721686397,
+      "longitude": 6.2620727130246285
+    }
+  },
+  {
+    "id": 91,
+    "type": "MPLUS",
+    "name": "Parada San Pedro (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "49",
+    "geometry": {
+      "x": -8411321.481497115,
+      "y": 698630.0885894634
+    },
+    "coords": {
+      "latitude": -75.56018646471715,
+      "longitude": 6.263388724318956
+    }
+  },
+  {
+    "id": 92,
+    "type": "MPLUS",
+    "name": "Estación Hospital (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "8",
+    "geometry": {
+      "x": -8411661.908551168,
+      "y": 698698.1370464787
+    },
+    "coords": {
+      "latitude": -75.563244572975,
+      "longitude": 6.263996364788494
+    }
+  },
+  {
+    "id": 93,
+    "type": "MPLUS",
+    "name": "Estación Hospital (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "8",
+    "geometry": {
+      "x": -8411668.423373448,
+      "y": 698681.8186781518
+    },
+    "coords": {
+      "latitude": -75.56330309661926,
+      "longitude": 6.263850649557901
+    }
+  },
+  {
+    "id": 94,
+    "type": "MPLUS",
+    "name": "Parada Ruta N (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "48",
+    "geometry": {
+      "x": -8412155.427445292,
+      "y": 698692.5787056349
+    },
+    "coords": {
+      "latitude": -75.56767792863091,
+      "longitude": 6.263946731465655
+    }
+  },
+  {
+    "id": 95,
+    "type": "MPLUS",
+    "name": "Parada Chagualo (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "47",
+    "geometry": {
+      "x": -8412325.072700946,
+      "y": 698333.5393524393
+    },
+    "coords": {
+      "latitude": -75.56920187789123,
+      "longitude": 6.260740671925679
+    }
+  },
+  {
+    "id": 96,
+    "type": "MPLUS",
+    "name": "Parada Minorista (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "46",
+    "geometry": {
+      "x": -8412772.70359079,
+      "y": 697820.5750250481
+    },
+    "coords": {
+      "latitude": -75.57322301459115,
+      "longitude": 6.2561600976235505
+    }
+  },
+  {
+    "id": 97,
+    "type": "MPLUS",
+    "name": "Parada Cisneros (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "45",
+    "geometry": {
+      "x": -8412985.053630956,
+      "y": 697226.8411054909
+    },
+    "coords": {
+      "latitude": -75.57513058745779,
+      "longitude": 6.250858231781575
+    }
+  },
+  {
+    "id": 98,
+    "type": "MPLUS",
+    "name": "Parada Plaza Mayor (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "44",
+    "geometry": {
+      "x": -8413004.395117382,
+      "y": 696420.6519459486
+    },
+    "coords": {
+      "latitude": -75.57530433498654,
+      "longitude": 6.243659118347609
+    }
+  },
+  {
+    "id": 99,
+    "type": "MPLUS",
+    "name": "Estación Industriales (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "14",
+    "geometry": {
+      "x": -8413166.25949796,
+      "y": 694944.9228752591
+    },
+    "coords": {
+      "latitude": -75.5767583874568,
+      "longitude": 6.230480886566663
+    }
+  },
+  {
+    "id": 100,
+    "type": "MPLUS",
+    "name": "Parada Nutibara (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "42",
+    "geometry": {
+      "x": -8413755.906268938,
+      "y": 695085.5607420988
+    },
+    "coords": {
+      "latitude": -75.58205527452283,
+      "longitude": 6.231736794247327
+    }
+  },
+  {
+    "id": 101,
+    "type": "MPLUS",
+    "name": "Parada Fátima (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "41",
+    "geometry": {
+      "x": -8414257.593154559,
+      "y": 695071.8340444379
+    },
+    "coords": {
+      "latitude": -75.58656200449478,
+      "longitude": 6.23161421384424
+    }
+  },
+  {
+    "id": 102,
+    "type": "MPLUS",
+    "name": "Parada Rosales (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "40",
+    "geometry": {
+      "x": -8414748.091621641,
+      "y": 695063.474733077
+    },
+    "coords": {
+      "latitude": -75.59096822719296,
+      "longitude": 6.231539564575057
+    }
+  },
+  {
+    "id": 103,
+    "type": "MPLUS",
+    "name": "Parada Parque Belén (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "39",
+    "geometry": {
+      "x": -8415391.417007416,
+      "y": 695040.0424125493
+    },
+    "coords": {
+      "latitude": -75.59674731746,
+      "longitude": 6.231330312161734
+    }
+  },
+  {
+    "id": 104,
+    "type": "MPLUS",
+    "name": "Parada La Palma (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "38",
+    "geometry": {
+      "x": -8415867.501046881,
+      "y": 695015.3395296484
+    },
+    "coords": {
+      "latitude": -75.60102405315176,
+      "longitude": 6.231109713438976
+    }
+  },
+  {
+    "id": 105,
+    "type": "MPLUS",
+    "name": "Parada Los Alpes (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "37",
+    "geometry": {
+      "x": -8416328.62272815,
+      "y": 695005.6421917677
+    },
+    "coords": {
+      "latitude": -75.60516637969299,
+      "longitude": 6.231023115409689
+    }
+  },
+  {
+    "id": 106,
+    "type": "MPLUS",
+    "name": "Parada Perpetuo Socorro (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "609",
+    "geometry": {
+      "x": -8412434.57565471,
+      "y": 695348.3414678313
+    },
+    "coords": {
+      "latitude": -75.57018555966147,
+      "longitude": 6.234083439615129
+    }
+  },
+  {
+    "id": 107,
+    "type": "MPLUS",
+    "name": "Parada Barrio Colón (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "610",
+    "geometry": {
+      "x": -8412403.033829805,
+      "y": 696083.4788615517
+    },
+    "coords": {
+      "latitude": -75.56990221462746,
+      "longitude": 6.2406481984909865
+    }
+  },
+  {
+    "id": 108,
+    "type": "MPLUS",
+    "name": "Parada San José (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "611",
+    "geometry": {
+      "x": -8411992.736701246,
+      "y": 696812.7420309931
+    },
+    "coords": {
+      "latitude": -75.56621645281132,
+      "longitude": 6.2471604194211805
+    }
+  },
+  {
+    "id": 109,
+    "type": "MPLUS",
+    "name": "Parada La Playa (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "612",
+    "geometry": {
+      "x": -8411807.20948718,
+      "y": 697093.0159203522
+    },
+    "coords": {
+      "latitude": -75.56454983349114,
+      "longitude": 6.249663205589359
+    }
+  },
+  {
+    "id": 110,
+    "type": "MPLUS",
+    "name": "Parada Catedral Metropolitana (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "613",
+    "geometry": {
+      "x": -8411589.98223688,
+      "y": 697470.9632189088
+    },
+    "coords": {
+      "latitude": -75.56259844790044,
+      "longitude": 6.253038175550431
+    }
+  },
+  {
+    "id": 111,
+    "type": "MPLUS",
+    "name": "Parada Parque Aranjuez (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "655",
+    "geometry": {
+      "x": -8410928.804640356,
+      "y": 701072.7547482587
+    },
+    "coords": {
+      "latitude": -75.5566589884957,
+      "longitude": 6.285200131913549
+    }
+  },
+  {
+    "id": 112,
+    "type": "MPLUS",
+    "name": "Parada Berlin (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "654",
+    "geometry": {
+      "x": -8410514.58524709,
+      "y": 700818.7412014045
+    },
+    "coords": {
+      "latitude": -75.5529379923762,
+      "longitude": 6.282931999999727
+    }
+  },
+  {
+    "id": 113,
+    "type": "MPLUS",
+    "name": "Parada Berlin (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "654",
+    "geometry": {
+      "x": -8410507.042085387,
+      "y": 700818.0626016185
+    },
+    "coords": {
+      "latitude": -75.5528702310017,
+      "longitude": 6.282925940648899
+    }
+  },
+  {
+    "id": 114,
+    "type": "MPLUS",
+    "name": "Parada Las Esmeraldas (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "653",
+    "geometry": {
+      "x": -8410540.192012006,
+      "y": 700310.4614066593
+    },
+    "coords": {
+      "latitude": -75.55316802185921,
+      "longitude": 6.278393450082059
+    }
+  },
+  {
+    "id": 115,
+    "type": "MPLUS",
+    "name": "Parada Las Esmeraldas (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "653",
+    "geometry": {
+      "x": -8410535.511363264,
+      "y": 700309.7183149643
+    },
+    "coords": {
+      "latitude": -75.55312597487615,
+      "longitude": 6.278386814812445
+    }
+  },
+  {
+    "id": 116,
+    "type": "MPLUS",
+    "name": "Parada Manrique (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "652",
+    "geometry": {
+      "x": -8410641.567478025,
+      "y": 699735.2758118175
+    },
+    "coords": {
+      "latitude": -75.5540786931648,
+      "longitude": 6.273257434823778
+    }
+  },
+  {
+    "id": 117,
+    "type": "MPLUS",
+    "name": "Parada Manrique (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "652",
+    "geometry": {
+      "x": -8410635.429015197,
+      "y": 699734.2525218166
+    },
+    "coords": {
+      "latitude": -75.554023550415,
+      "longitude": 6.273248297496526
+    }
+  },
+  {
+    "id": 118,
+    "type": "MPLUS",
+    "name": "Parada Gardel (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "651",
+    "geometry": {
+      "x": -8410749.039529506,
+      "y": 699109.2934310324
+    },
+    "coords": {
+      "latitude": -75.5550441310294,
+      "longitude": 6.267667781383666
+    }
+  },
+  {
+    "id": 119,
+    "type": "MPLUS",
+    "name": "Parada Gardel (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "651",
+    "geometry": {
+      "x": -8410743.094945626,
+      "y": 699108.7875830568
+    },
+    "coords": {
+      "latitude": -75.55499072992383,
+      "longitude": 6.267663264435387
+    }
+  },
+  {
+    "id": 120,
+    "type": "MPLUS",
+    "name": "Parada Industriales (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "714",
+    "geometry": {
+      "x": -8413137.607092552,
+      "y": 694946.2877418846
+    },
+    "coords": {
+      "latitude": -75.57650099851978,
+      "longitude": 6.230493074951969
+    }
+  },
+  {
+    "id": 121,
+    "type": "MPLUS",
+    "name": "Parada Nutibara (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "642",
+    "geometry": {
+      "x": -8413755.906268938,
+      "y": 695085.5607420988
+    },
+    "coords": {
+      "latitude": -75.58205527452283,
+      "longitude": 6.231736794247327
+    }
+  },
+  {
+    "id": 122,
+    "type": "MPLUS",
+    "name": "Parada Nutibara (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "642",
+    "geometry": {
+      "x": -8413756.227520164,
+      "y": 695099.9401455969
+    },
+    "coords": {
+      "latitude": -75.5820581603717,
+      "longitude": 6.231865203330026
+    }
+  },
+  {
+    "id": 123,
+    "type": "MPLUS",
+    "name": "Parada Fátima (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "641",
+    "geometry": {
+      "x": -8414257.593154559,
+      "y": 695071.8340444379
+    },
+    "coords": {
+      "latitude": -75.58656200449478,
+      "longitude": 6.23161421384424
+    }
+  },
+  {
+    "id": 124,
+    "type": "MPLUS",
+    "name": "Parada Fátima (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "641",
+    "geometry": {
+      "x": -8414257.82788533,
+      "y": 695086.2239428274
+    },
+    "coords": {
+      "latitude": -75.58656411311718,
+      "longitude": 6.23174271667707
+    }
+  },
+  {
+    "id": 125,
+    "type": "MPLUS",
+    "name": "Parada Rosales (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "640",
+    "geometry": {
+      "x": -8414748.091621641,
+      "y": 695063.474733077
+    },
+    "coords": {
+      "latitude": -75.59096822719296,
+      "longitude": 6.231539564575057
+    }
+  },
+  {
+    "id": 126,
+    "type": "MPLUS",
+    "name": "Parada Rosales (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "640",
+    "geometry": {
+      "x": -8414748.290614119,
+      "y": 695069.815599367
+    },
+    "coords": {
+      "latitude": -75.5909700147728,
+      "longitude": 6.231596188981327
+    }
+  },
+  {
+    "id": 127,
+    "type": "MPLUS",
+    "name": "Parada Parque Belén (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "639",
+    "geometry": {
+      "x": -8415391.417007416,
+      "y": 695040.0424125493
+    },
+    "coords": {
+      "latitude": -75.59674731746,
+      "longitude": 6.231330312161734
+    }
+  },
+  {
+    "id": 128,
+    "type": "MPLUS",
+    "name": "Parada Parque Belén (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "639",
+    "geometry": {
+      "x": -8415391.71638483,
+      "y": 695047.4012135789
+    },
+    "coords": {
+      "latitude": -75.59675000681305,
+      "longitude": 6.231396026826381
+    }
+  },
+  {
+    "id": 129,
+    "type": "MPLUS",
+    "name": "Parada La Palma (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "638",
+    "geometry": {
+      "x": -8415867.501046881,
+      "y": 695015.3395296484
+    },
+    "coords": {
+      "latitude": -75.60102405315176,
+      "longitude": 6.231109713438976
+    }
+  },
+  {
+    "id": 130,
+    "type": "MPLUS",
+    "name": "Parada La Palma (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "638",
+    "geometry": {
+      "x": -8415867.926562104,
+      "y": 695022.9585668072
+    },
+    "coords": {
+      "latitude": -75.60102787562005,
+      "longitude": 6.231177752060899
+    }
+  },
+  {
+    "id": 131,
+    "type": "MPLUS",
+    "name": "Parada Los Alpes (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "637",
+    "geometry": {
+      "x": -8416328.62272815,
+      "y": 695005.6421917677
+    },
+    "coords": {
+      "latitude": -75.60516637969299,
+      "longitude": 6.231023115409689
+    }
+  },
+  {
+    "id": 132,
+    "type": "MPLUS",
+    "name": "Parada Los Alpes (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "637",
+    "geometry": {
+      "x": -8416328.884844009,
+      "y": 695013.438976746
+    },
+    "coords": {
+      "latitude": -75.6051687343198,
+      "longitude": 6.231092741345503
+    }
+  },
+  {
+    "id": 133,
+    "type": "MPLUS",
+    "name": "Estación Universidad de Medellín (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "636",
+    "geometry": {
+      "x": -8416780.414847326,
+      "y": 694965.750858888
+    },
+    "coords": {
+      "latitude": -75.609224897352,
+      "longitude": 6.230666882357591
+    }
+  },
+  {
+    "id": 134,
+    "type": "MPLUS",
+    "name": "Parada Palos Verdes (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "650",
+    "geometry": {
+      "x": -8410835.099050948,
+      "y": 698482.711353261
+    },
+    "coords": {
+      "latitude": -75.55581721686397,
+      "longitude": 6.2620727130246285
+    }
+  },
+  {
+    "id": 135,
+    "type": "MPLUS",
+    "name": "Parada Parque Aranjuez (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "55",
+    "geometry": {
+      "x": -8410928.804640356,
+      "y": 701072.7547482587
+    },
+    "coords": {
+      "latitude": -75.5566589884957,
+      "longitude": 6.285200131913549
+    }
+  },
+  {
+    "id": 136,
+    "type": "MPLUS",
+    "name": "Parada Parque Aranjuez (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "655",
+    "geometry": {
+      "x": -8410928.804640356,
+      "y": 701072.7547482587
+    },
+    "coords": {
+      "latitude": -75.5566589884957,
+      "longitude": 6.285200131913549
+    }
+  },
+  {
+    "id": 137,
+    "type": "MPLUS",
+    "name": "Estación Universidad de Medellín (Línea 1)",
+    "line": "1",
+    "lineDescription": "--",
+    "stationId": "36",
+    "geometry": {
+      "x": -8416780.414847326,
+      "y": 694965.750858888
+    },
+    "coords": {
+      "latitude": -75.609224897352,
+      "longitude": 6.230666882357591
+    }
+  },
+  {
+    "id": 138,
+    "type": "MPLUS",
+    "name": "Estación Universidad de Medellín (Línea 2)",
+    "line": "2",
+    "lineDescription": "--",
+    "stationId": "636",
+    "geometry": {
+      "x": -8416780.414847326,
+      "y": 694965.750858888
+    },
+    "coords": {
+      "latitude": -75.609224897352,
+      "longitude": 6.230666882357591
+    }
+  },
+  {
+    "id": 139,
+    "type": "MPLUS",
+    "name": "Parada Caribe Buses CR 64",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1457",
+    "geometry": {
+      "x": -8412454.209176438,
+      "y": 700211.9070073627
+    },
+    "coords": {
+      "latitude": -75.57036193058795,
+      "longitude": 6.277513430075575
+    }
+  },
+  {
+    "id": 140,
+    "type": "MPLUS",
+    "name": "Parada Cementerio Universal",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1458",
+    "geometry": {
+      "x": -8412862.52263519,
+      "y": 699970.3536813296
+    },
+    "coords": {
+      "latitude": -75.57402987279505,
+      "longitude": 6.27535652606382
+    }
+  },
+  {
+    "id": 141,
+    "type": "MPLUS",
+    "name": "Parada Barrio Cordoba Tranversal 78",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1460",
+    "geometry": {
+      "x": -8413342.03174939,
+      "y": 699793.1333958581
+    },
+    "coords": {
+      "latitude": -75.57833737645666,
+      "longitude": 6.273774065897865
+    }
+  },
+  {
+    "id": 142,
+    "type": "MPLUS",
+    "name": "Parada Barrio Pilarica CL 73 x CR 72A",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1461",
+    "geometry": {
+      "x": -8413816.170616202,
+      "y": 699776.4783220552
+    },
+    "coords": {
+      "latitude": -75.58259663836517,
+      "longitude": 6.273625346835824
+    }
+  },
+  {
+    "id": 143,
+    "type": "MPLUS",
+    "name": "Parada Ciudadela Universitaria",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1462",
+    "geometry": {
+      "x": -8414364.908263756,
+      "y": 699721.0337326452
+    },
+    "coords": {
+      "latitude": -75.58752603252287,
+      "longitude": 6.273130262123317
+    }
+  },
+  {
+    "id": 144,
+    "type": "MPLUS",
+    "name": "Parada Facultad de Minas",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1463",
+    "geometry": {
+      "x": -8415062.035883686,
+      "y": 699611.2262578048
+    },
+    "coords": {
+      "latitude": -75.59378843648251,
+      "longitude": 6.272149750234902
+    }
+  },
+  {
+    "id": 145,
+    "type": "MPLUS",
+    "name": "Parada Barrio los Colores AV 80 x CL 54",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1464",
+    "geometry": {
+      "x": -8415224.384144466,
+      "y": 699382.654022105
+    },
+    "coords": {
+      "latitude": -75.5952468357226,
+      "longitude": 6.270108737596558
+    }
+  },
+  {
+    "id": 146,
+    "type": "MPLUS",
+    "name": "Parada Barrio Calazans",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1465",
+    "geometry": {
+      "x": -8415346.817157932,
+      "y": 698832.7359158434
+    },
+    "coords": {
+      "latitude": -75.59634667019539,
+      "longitude": 6.265198266815319
+    }
+  },
+  {
+    "id": 147,
+    "type": "MPLUS",
+    "name": "Parada Integracion Estación Floresta",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1466",
+    "geometry": {
+      "x": -8415523.852689559,
+      "y": 698040.9926675111
+    },
+    "coords": {
+      "latitude": -75.59793700743431,
+      "longitude": 6.258128347380915
+    }
+  },
+  {
+    "id": 148,
+    "type": "MPLUS",
+    "name": "Parada Barrio Los Pinos",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1467",
+    "geometry": {
+      "x": -8415621.385503625,
+      "y": 697656.4809097275
+    },
+    "coords": {
+      "latitude": -75.5988131596101,
+      "longitude": 6.25469479176146
+    }
+  },
+  {
+    "id": 149,
+    "type": "MPLUS",
+    "name": "Parada Barrio Laureles",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1468",
+    "geometry": {
+      "x": -8416045.73677606,
+      "y": 696718.7013474405
+    },
+    "coords": {
+      "latitude": -75.60262517194873,
+      "longitude": 6.246320653454447
+    }
+  },
+  {
+    "id": 150,
+    "type": "MPLUS",
+    "name": "Parada  Santa Gema",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1469",
+    "geometry": {
+      "x": -8416085.647479016,
+      "y": 696014.546161104
+    },
+    "coords": {
+      "latitude": -75.6029836958934,
+      "longitude": 6.240032634661856
+    }
+  },
+  {
+    "id": 151,
+    "type": "MPLUS",
+    "name": "Parada Nueva Villa de Aburrá",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1470",
+    "geometry": {
+      "x": -8416007.873570925,
+      "y": 695441.9522599988
+    },
+    "coords": {
+      "latitude": -75.60228504098995,
+      "longitude": 6.234919386257735
+    }
+  },
+  {
+    "id": 152,
+    "type": "MPLUS",
+    "name": "Parada Integracion La Palma",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1471",
+    "geometry": {
+      "x": -8416000.37552366,
+      "y": 695207.8732977435
+    },
+    "coords": {
+      "latitude": -75.60221768488536,
+      "longitude": 6.232829052952658
+    }
+  },
+  {
+    "id": 153,
+    "type": "MPLUS",
+    "name": "Parada Integracion La Palma",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1472",
+    "geometry": {
+      "x": -8415987.341306562,
+      "y": 695163.2753802277
+    },
+    "coords": {
+      "latitude": -75.602100596521,
+      "longitude": 6.232430791047558
+    }
+  },
+  {
+    "id": 154,
+    "type": "MPLUS",
+    "name": "Parada Caribe Buses CR 64",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1457",
+    "geometry": {
+      "x": -8412454.209176438,
+      "y": 700211.9070073627
+    },
+    "coords": {
+      "latitude": -75.57036193058795,
+      "longitude": 6.277513430075575
+    }
+  },
+  {
+    "id": 155,
+    "type": "MPLUS",
+    "name": "Parada  Nueva Villa de Aburrá",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1473",
+    "geometry": {
+      "x": -8415996.191448534,
+      "y": 695492.4549567476
+    },
+    "coords": {
+      "latitude": -75.602180098699,
+      "longitude": 6.2353703760102315
+    }
+  },
+  {
+    "id": 156,
+    "type": "MPLUS",
+    "name": "Parada Barrio Santa Gema",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1474",
+    "geometry": {
+      "x": -8416075.595999854,
+      "y": 695980.6033364348
+    },
+    "coords": {
+      "latitude": -75.6028934019198,
+      "longitude": 6.239729527525403
+    }
+  },
+  {
+    "id": 157,
+    "type": "MPLUS",
+    "name": "Parada Barrio Laureles",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1475",
+    "geometry": {
+      "x": -8416033.708953595,
+      "y": 696717.4832580984
+    },
+    "coords": {
+      "latitude": -75.60251712418119,
+      "longitude": 6.246309776132354
+    }
+  },
+  {
+    "id": 158,
+    "type": "MPLUS",
+    "name": "Parada Barrio Los Pinos",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1476",
+    "geometry": {
+      "x": -8415590.126448406,
+      "y": 697694.222119581
+    },
+    "coords": {
+      "latitude": -75.59853235473939,
+      "longitude": 6.255031808574148
+    }
+  },
+  {
+    "id": 159,
+    "type": "MPLUS",
+    "name": "Parada Integracion Barrio Floresta",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1477",
+    "geometry": {
+      "x": -8415482.995980613,
+      "y": 698162.1997396983
+    },
+    "coords": {
+      "latitude": -75.59756998537326,
+      "longitude": 6.259210679499795
+    }
+  },
+  {
+    "id": 160,
+    "type": "MPLUS",
+    "name": "Parada Barrio Calazans",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1478",
+    "geometry": {
+      "x": -8415353.707094826,
+      "y": 698750.7108652033
+    },
+    "coords": {
+      "latitude": -75.59640856355156,
+      "longitude": 6.264465823587944
+    }
+  },
+  {
+    "id": 161,
+    "type": "MPLUS",
+    "name": "Parada Barrio los colores AV 80 x CL 54",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1479",
+    "geometry": {
+      "x": -8415217.673555573,
+      "y": 699359.8897712454
+    },
+    "coords": {
+      "latitude": -75.59518655347694,
+      "longitude": 6.269905466085668
+    }
+  },
+  {
+    "id": 162,
+    "type": "MPLUS",
+    "name": "Parada Facultad de Minas",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1480",
+    "geometry": {
+      "x": -8414879.660568826,
+      "y": 699794.367341876
+    },
+    "coords": {
+      "latitude": -75.59215013115467,
+      "longitude": 6.273785084237891
+    }
+  },
+  {
+    "id": 163,
+    "type": "MPLUS",
+    "name": "Parada Ciudadela Universitaria",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1481",
+    "geometry": {
+      "x": -8414482.43786171,
+      "y": 699709.207748156
+    },
+    "coords": {
+      "latitude": -75.58858181886465,
+      "longitude": 6.273024663586694
+    }
+  },
+  {
+    "id": 164,
+    "type": "MPLUS",
+    "name": "Parada Barrio Pilarica CL 73 x CR 72A",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1482",
+    "geometry": {
+      "x": -8413834.516961757,
+      "y": 699768.287529368
+    },
+    "coords": {
+      "latitude": -75.58276144639137,
+      "longitude": 6.2735522083268185
+    }
+  },
+  {
+    "id": 165,
+    "type": "MPLUS",
+    "name": "Parada Barrio Cordoba CR 67 x CL 78A",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1483",
+    "geometry": {
+      "x": -8413332.357828371,
+      "y": 699830.9204391278
+    },
+    "coords": {
+      "latitude": -75.57825047414558,
+      "longitude": 6.274111479654083
+    }
+  },
+  {
+    "id": 166,
+    "type": "MPLUS",
+    "name": "Parada Cementerio Universal CR 65",
+    "line": "O",
+    "lineDescription": "--",
+    "stationId": "1459",
+    "geometry": {
+      "x": -8412766.549916586,
+      "y": 700137.58795188
+    },
+    "coords": {
+      "latitude": -75.57316773519524,
+      "longitude": 6.276849813300769
+    }
+  },
+  {
+    "id": 167,
+    "type": "C",
+    "name": "Estación Sena-Pedregal (Línea P)",
+    "line": "P",
+    "lineDescription": "Acevedo - El Progreso",
+    "stationId": "92",
+    "geometry": {
+      "x": -8412115.460395625,
+      "y": 702941.1066047475
+    },
+    "coords": {
+      "latitude": -75.56731889851514,
+      "longitude": 6.301882672190578
+    }
+  }
+]

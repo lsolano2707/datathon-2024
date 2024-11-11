@@ -1,0 +1,2824 @@
+[
+
+{
+    "id": "AT001",
+    "name": "Aeroparque Parque Juan Pablo II",
+    "description": "Un parque recreativo y temático en Medellín, ideal para actividades al aire libre y disfrute en familia. Cuenta con áreas verdes, piscinas y atracciones para todas las edades.",
+    "tags": [
+        "ParqueTemático",
+        "RecreaciónFamiliar",
+        "AventuraAlAireLibre"
+    ],
+    "category": "Parque temático y recreativo",
+    "required": false,
+    "neighborhoodId": "Inst_19",
+    "neighborhood": "Parque Juan Pablo II",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://aeroparquejuanpablo.gov.co/",
+    "geometry": {
+        "x": 4713317.7449000003,
+        "y": 2246254.5177000002
+    },
+    "coords": {
+        "latitude": 6.22229004,
+        "longitude": -75.59167481
+    },
+    "order": 14,
+    "internalId": 1,
+    
+    "risk": 0.2208368445
+},
+{
+    "id": "AT002",
+    "name": "Aeropuerto Enrique Olaya Herrera",
+    "description": "Aeropuerto regional que conecta Medellín con otras ciudades colombianas.",
+    "tags": [
+        "transporte",
+        "aeropuerto",
+        "conexiones"
+    ],
+    "category": "Aeropuerto de pasajeros",
+    "required": false,
+    "neighborhoodId": "Inst_19",
+    "neighborhood": "Parque Juan Pablo II",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.aeropuertomedellin.co/",
+    "geometry": {
+        "x": 4713559.1091999998,
+        "y": 2245875.2637999998
+    },
+    "coords": {
+        "latitude": 6.21887207,
+        "longitude": -75.58947754
+    },
+    "order": 37,
+    "internalId": 2,
+    
+    "risk": 0.2208368445
+},
+{
+    "id": "AT003",
+    "name": "Barrio Prado",
+    "description": "Un sector histórico de Medellín con arquitectura colonial y calles llenas de encanto. Perfecto para quienes buscan un paseo tranquilo mientras aprecian la historia y cultura de la ciudad.",
+    "tags": [
+        "Historia",
+        "ArquitecturaColonial",
+        "Cultura"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1001,
+    "neighborhood": "Prado",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716641.4362000003,
+        "y": 2250356.4835000001
+    },
+    "coords": {
+        "latitude": 6.25952148,
+        "longitude": -75.56182861
+    },
+    "order": 0,
+    "internalId": 3,
+    
+    "risk": 0.4618123033
+},
+{
+    "id": "AT004",
+    "name": "Basílica Menor Nuestra Señora de la Candelaria",
+    "description": "Iglesia histórica en el centro de Medellín, conocida por su arquitectura colonial.",
+    "tags": [
+        "historia",
+        "arquitectura",
+        "religión"
+    ],
+    "category": "Basílica",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/parroquias/nuestra-senora-de-la-candelaria/",
+    "geometry": {
+        "x": 4716008.1036999999,
+        "y": 2249319.9002999999
+    },
+    "coords": {
+        "latitude": 6.25012207,
+        "longitude": -75.56750488
+    },
+    "order": 35,
+    "internalId": 4,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT005",
+    "name": "Bulevar Libertadores de América",
+    "description": "Avenida amplia con zonas peatonales, perfecta para pasear y disfrutar del ambiente urbano.",
+    "tags": [
+        "paseo",
+        "urbano",
+        "peatonal"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1117,
+    "neighborhood": "Florida Nueva",
+    "districtId": 11,
+    "district": "Laureles Estadio",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4713705.0747999996,
+        "y": 2249459.4629000002
+    },
+    "coords": {
+        "latitude": 6.25128174,
+        "longitude": -75.58831787
+    },
+    "order": 2,
+    "internalId": 5,
+    
+    "risk": 0.5449636267
+},
+{
+    "id": "AT006",
+    "name": "Calle de la Buena Mesa",
+    "description": "Calle famosa por su variedad de restaurantes y oferta gastronómica en Envigado.",
+    "tags": [
+        "gastronomía",
+        "restaurantes",
+        "cultura"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1419,
+    "neighborhood": "Manila",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715636.4173999997,
+        "y": 2245135.9992
+    },
+    "coords": {
+        "latitude": 6.21228027,
+        "longitude": -75.57067871
+    },
+    "order": 6,
+    "internalId": 6,
+    
+    "risk": 0.3775259257
+},
+{
+    "id": "AT007",
+    "name": "Casa de la Lectura Infantil",
+    "description": "Espacio dedicado a fomentar la lectura entre los más pequeños, con actividades y talleres.",
+    "tags": [
+        "educación",
+        "niños",
+        "lectura"
+    ],
+    "category": "Sala múltiple",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://bibliotecasmedellin.gov.co/casa-de-la-lectura-infantil/",
+    "geometry": {
+        "x": 4716372.1458000001,
+        "y": 2249162.8481999999
+    },
+    "coords": {
+        "latitude": 6.24871826,
+        "longitude": -75.56420898
+    },
+    "order": 8,
+    "internalId": 7,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT008",
+    "name": "Casa de Música El Jordán",
+    "description": "Centro cultural que promueve la música local y ofrece conciertos y talleres.",
+    "tags": [
+        "música",
+        "cultura",
+        "eventos"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": 717,
+    "neighborhood": "Robledo",
+    "districtId": 7,
+    "district": "Robledo",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://bibliotecasmedellin.gov.co/centro-de-documentacion-musical-el-jordan/",
+    "geometry": {
+        "x": 4712947.9497999996,
+        "y": 2252096.1998999999
+    },
+    "coords": {
+        "latitude": 6.27508545,
+        "longitude": -75.59527588
+    },
+    "order": 40,
+    "internalId": 8,
+    
+    "risk": 0.1843775259
+},
+{
+    "id": "AT009",
+    "name": "Casa Museo Maestro Pedro Nel Gómez",
+    "description": "Museo dedicado al artista Pedro Nel Gómez, con una amplia colección de sus obras.",
+    "tags": [
+        "arte",
+        "museo",
+        "cultura"
+    ],
+    "category": "Museo",
+    "required": false,
+    "neighborhoodId": 413,
+    "neighborhood": "Aranjuez",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://museopedronelgomez.org/",
+    "geometry": {
+        "x": 4716577.3874000004,
+        "y": 2252456.3947999999
+    },
+    "coords": {
+        "latitude": 6.27850342,
+        "longitude": -75.5625
+    },
+    "order": 50,
+    "internalId": 9,
+    
+    "risk": 0.2605981392
+},
+{
+    "id": "AT010",
+    "name": "Catedral Basílica Metropolitana de la Inmaculada Concepción de María",
+    "description": "Imponente catedral de estilo neorrománico, considerada una de las más grandes construidas en ladrillo en el mundo.",
+    "tags": [
+        "Arquitectura",
+        "Religión",
+        "Historia"
+    ],
+    "category": "Catedral",
+    "required": true,
+    "neighborhoodId": 1018,
+    "neighborhood": "Villa Nueva",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/catedral-de-medellin/",
+    "geometry": {
+        "x": 4716422.3312999997,
+        "y": 2249756.7026
+    },
+    "coords": {
+        "latitude": 6.25408936,
+        "longitude": -75.56378174
+    },
+    "order": 72,
+    "internalId": 10,
+    
+    "risk": 0.4618123033
+},
+{
+    "id": "AT011",
+    "name": "Cementerio San Lorenzo",
+    "description": "Antiguo cementerio con tumbas históricas y arquitectura neoclásica.",
+    "tags": [
+        "historia",
+        "arquitectura",
+        "patrimonio"
+    ],
+    "category": "Cementerio",
+    "required": false,
+    "neighborhoodId": 9001,
+    "neighborhood": "Las Palmas",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716158.9386,
+        "y": 2248387.5074
+    },
+    "coords": {
+        "latitude": 6.24169922,
+        "longitude": -75.56610107
+    },
+    "order": 18,
+    "internalId": 11,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT012",
+    "name": "Centro Administrativo José María Córdoba´",
+    "description": "Complejo gubernamental que alberga oficinas administrativas de la ciudad.",
+    "tags": [
+        "gobierno",
+        "administración",
+        "urbano"
+    ],
+    "category": "Centro administrativo",
+    "required": false,
+    "neighborhoodId": "Inst_17",
+    "neighborhood": "Centro Administrativo",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715343.0207000002,
+        "y": 2248702.0427999999
+    },
+    "coords": {
+        "latitude": 6.24450684,
+        "longitude": -75.57348633
+    },
+    "order": 28,
+    "internalId": 12,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT013",
+    "name": "Centro Comercial Palacio Nacional",
+    "description": "Antiguo palacio de justicia convertido en centro comercial con tiendas y restaurantes.",
+    "tags": [
+        "compras",
+        "historia",
+        "arquitectura"
+    ],
+    "category": "Edificación comercial",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715696.6882999996,
+        "y": 2249186.3983
+    },
+    "coords": {
+        "latitude": 6.24890137,
+        "longitude": -75.5703125
+    },
+    "order": 24,
+    "internalId": 13,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT014",
+    "name": "Centro de Desarrollo Cultural de Moravia",
+    "description": "Espacio cultural que ofrece talleres, exposiciones y actividades comunitarias.",
+    "tags": [
+        "cultura",
+        "comunidad",
+        "educación"
+    ],
+    "category": "Centro de formación cultural",
+    "required": false,
+    "neighborhoodId": 405,
+    "neighborhood": "Moravia",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://centroculturalmoravia.org/",
+    "geometry": {
+        "x": 4716333.1105000004,
+        "y": 2252234.8034000001
+    },
+    "coords": {
+        "latitude": 6.27648926,
+        "longitude": -75.56469727
+    },
+    "order": 26,
+    "internalId": 14,
+    
+    "risk": 0.2605981392
+},
+{
+    "id": "AT015",
+    "name": "Centro de Espectáculos La Macarena",
+    "description": "Antigua plaza de toros ahora utilizada para conciertos y eventos culturales.",
+    "tags": [
+        "eventos",
+        "cultura",
+        "conciertos"
+    ],
+    "category": "Plaza de toros",
+    "required": false,
+    "neighborhoodId": 1103,
+    "neighborhood": "Naranjal",
+    "districtId": 11,
+    "district": "Laureles Estadio",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/local/centro-de-espectaculos-la-macarena/",
+    "geometry": {
+        "x": 4714568.9330000002,
+        "y": 2249279.6855000001
+    },
+    "coords": {
+        "latitude": 6.24969482,
+        "longitude": -75.58050537
+    },
+    "order": 42,
+    "internalId": 15,
+    
+    "risk": 0.5449636267
+},
+{
+    "id": "AT016",
+    "name": "Cerro Pan de Azúcar",
+    "description": "Colina que ofrece vistas panorámicas de la ciudad y senderos para caminatas.",
+    "tags": [
+        "naturaleza",
+        "senderismo",
+        "vistas"
+    ],
+    "category": "Cerro",
+    "required": false,
+    "neighborhoodId": 9003,
+    "neighborhood": "Piedras Blancas - Matasano",
+    "districtId": 90,
+    "district": "Corregimiento de Santa Elena",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-pan-de-azucar/",
+    "geometry": {
+        "x": 4719573.3618000001,
+        "y": 2248965.0556999999
+    },
+    "coords": {
+        "latitude": 6.24707031,
+        "longitude": -75.53527832
+    },
+    "order": 30,
+    "internalId": 16,
+    
+    "risk": 0.2244139852
+},
+{
+    "id": "AT017",
+    "name": "Complejo Arquitectónico Claustro San Ignacio",
+    "description": "Conjunto histórico que incluye la iglesia de San Ignacio y edificios coloniales.",
+    "tags": [
+        "historia",
+        "arquitectura",
+        "religión"
+    ],
+    "category": "Claustro",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716370.8298000004,
+        "y": 2248892.8097000001
+    },
+    "coords": {
+        "latitude": 6.24627686,
+        "longitude": -75.56420898
+    },
+    "order": 44,
+    "internalId": 17,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT018",
+    "name": "Conjunto de Esculturas de Botero",
+    "description": "Colección de esculturas del maestro Fernando Botero ubicadas en la Plaza Botero.",
+    "tags": [
+        "arte",
+        "esculturas",
+        "cultura"
+    ],
+    "category": "Escultura",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715934.9797,
+        "y": 2249563.2985999999
+    },
+    "coords": {
+        "latitude": 6.25231934,
+        "longitude": -75.56817627
+    },
+    "order": 88,
+    "internalId": 18,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT019",
+    "name": "Ecoparque Cerro Picacho",
+    "description": "Parque ecológico con senderos naturales y miradores con vistas espectaculares.",
+    "tags": [
+        "naturaleza",
+        "ecología",
+        "senderismo"
+    ],
+    "category": "Cerro",
+    "required": false,
+    "neighborhoodId": 6011,
+    "neighborhood": "El Picacho",
+    "districtId": 60,
+    "district": "Corregimiento de San Cristóbal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-el-picacho/",
+    "geometry": {
+        "x": 4713713.6765000001,
+        "y": 2255299.2622000002
+    },
+    "coords": {
+        "latitude": 6.30407715,
+        "longitude": -75.58850098
+    },
+    "order": 48,
+    "internalId": 19,
+    
+    "risk": 0.1879718644
+},
+{
+    "id": "AT020",
+    "name": "Edificio Antigua Estación Medellín",
+    "description": "Antigua estación de tren que ahora funciona como centro cultural y de eventos.",
+    "tags": [
+        "historia",
+        "cultura",
+        "arquitectura"
+    ],
+    "category": "Estación de ferrocarril",
+    "required": false,
+    "neighborhoodId": "Inst_17",
+    "neighborhood": "Centro Administrativo",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/antigua-estacion-del-ferrocarril-de-antioquia/",
+    "geometry": {
+        "x": 4715518.7664000001,
+        "y": 2248721.4374000002
+    },
+    "coords": {
+        "latitude": 6.24468994,
+        "longitude": -75.57189941
+    },
+    "order": 33,
+    "internalId": 20,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT021",
+    "name": "Edificio Carré",
+    "description": "Edificio histórico de estilo neoclásico ubicado en el centro de la ciudad.",
+    "tags": [
+        "arquitectura",
+        "historia",
+        "patrimonio"
+    ],
+    "category": "Centro administrativo",
+    "required": false,
+    "neighborhoodId": 1007,
+    "neighborhood": "Guayaquil",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/edificio-carre/",
+    "geometry": {
+        "x": 4715593.7379999999,
+        "y": 2248856.0943999998
+    },
+    "coords": {
+        "latitude": 6.24591064,
+        "longitude": -75.57122803
+    },
+    "order": 31,
+    "internalId": 21,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT022",
+    "name": "Edificio Coltejer",
+    "description": "Rascacielos emblemático de Medellín, símbolo del desarrollo industrial.",
+    "tags": [
+        "arquitectura",
+        "icono",
+        "urbano"
+    ],
+    "category": "Edificación comercial",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.edificiocoltejerph.com.co/",
+    "geometry": {
+        "x": 4716176.9923,
+        "y": 2249319.0759999999
+    },
+    "coords": {
+        "latitude": 6.25012207,
+        "longitude": -75.565979
+    },
+    "order": 12,
+    "internalId": 22,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT023",
+    "name": "Edificio Inteligente Empresas Públicas de Medellín",
+    "description": "Sede de EPM, conocido por su diseño moderno y sostenible.",
+    "tags": [
+        "arquitectura",
+        "innovación",
+        "sostenibilidad"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": "Inst_16",
+    "neighborhood": "La Alpujarra",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4714877.409,
+        "y": 2248812.3402
+    },
+    "coords": {
+        "latitude": 6.2454834,
+        "longitude": -75.57769775
+    },
+    "order": 29,
+    "internalId": 23,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT024",
+    "name": "Edificio Vásquez",
+    "description": "Edificio patrimonial de estilo republicano, ahora centro cultural y de oficinas.",
+    "tags": [
+        "arquitectura",
+        "historia",
+        "cultura"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": 1007,
+    "neighborhood": "Guayaquil",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/edificio-vasquez/",
+    "geometry": {
+        "x": 4715573.3722999999,
+        "y": 2248835.9404000002
+    },
+    "coords": {
+        "latitude": 6.24572754,
+        "longitude": -75.57141113
+    },
+    "order": 27,
+    "internalId": 24,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT025",
+    "name": "Escaleras Eléctricas Comuna 13",
+    "description": "Innovador sistema de escaleras eléctricas al aire libre que facilita la movilidad en la Comuna 13.",
+    "tags": [
+        "innovación",
+        "comunidad",
+        "transporte"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": true,
+    "neighborhoodId": 1314,
+    "neighborhood": "Las Independencias",
+    "districtId": 13,
+    "district": "San Javier",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/comuna-13/",
+    "geometry": {
+        "x": 4709987.5728000002,
+        "y": 2249106.5520000001
+    },
+    "coords": {
+        "latitude": 6.2479248,
+        "longitude": -75.62188721
+    },
+    "order": 94,
+    "internalId": 25,
+    
+    "risk": 0.1295165701
+},
+{
+    "id": "AT026",
+    "name": "Escultura Cacique Nutibara",
+    "description": "Imponente escultura en honor al líder indígena Nutibara, ubicada en el Cerro Nutibara.",
+    "tags": [
+        "escultura",
+        "historia",
+        "cultura"
+    ],
+    "category": "Escultura",
+    "required": false,
+    "neighborhoodId": "Inst_18",
+    "neighborhood": "Cerro Nutibara",
+    "districtId": 16,
+    "district": "Belén",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4714629.3438999997,
+        "y": 2247821.1282000002
+    },
+    "coords": {
+        "latitude": 6.23651123,
+        "longitude": -75.57989502
+    },
+    "order": 25,
+    "internalId": 26,
+    
+    "risk": 0.371059556
+},
+{
+    "id": "AT027",
+    "name": "Escultura La Gorda de Botero",
+    "description": "Famosa escultura de una mujer voluptuosa, obra del maestro Fernando Botero, situada en la Plaza Botero.",
+    "tags": [
+        "arte",
+        "escultura",
+        "Botero"
+    ],
+    "category": "Escultura",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715974.1941,
+        "y": 2249293.0613000002
+    },
+    "coords": {
+        "latitude": 6.24987793,
+        "longitude": -75.56781006
+    },
+    "order": 23,
+    "internalId": 27,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT028",
+    "name": "Estatua a Simón Bolívar",
+    "description": "Monumento en honor al Libertador Simón Bolívar, ubicado en el Parque de Bolívar.",
+    "tags": [
+        "historia",
+        "monumento",
+        "Bolívar"
+    ],
+    "category": "Estatua",
+    "required": false,
+    "neighborhoodId": 1018,
+    "neighborhood": "Villa Nueva",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716333.983,
+        "y": 2249649.1156000001
+    },
+    "coords": {
+        "latitude": 6.25311279,
+        "longitude": -75.5645752
+    },
+    "order": 21,
+    "internalId": 28,
+    
+    "risk": 0.4618123033
+},
+{
+    "id": "AT029",
+    "name": "Fuente Cacique de Nutibara",
+    "description": "Fuente ornamental que rinde homenaje al Cacique Nutibara, situada en el Cerro Nutibara.",
+    "tags": [
+        "fuente",
+        "historia",
+        "cultura"
+    ],
+    "category": "Fuente",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715995.7429999998,
+        "y": 2249501.7559000002
+    },
+    "coords": {
+        "latitude": 6.25176563,
+        "longitude": -75.56762458
+    },
+    "order": 1,
+    "internalId": 29,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT030",
+    "name": "Iglesia de San Antonio",
+    "description": "Templo católico de estilo neoclásico, conocido por su arquitectura y valor histórico.",
+    "tags": [
+        "iglesia",
+        "arquitectura",
+        "historia"
+    ],
+    "category": "Iglesia",
+    "required": false,
+    "neighborhoodId": 1013,
+    "neighborhood": "Barrio Colón",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/parroquias/san-antonio-de-padua/",
+    "geometry": {
+        "x": 4715849.6935999999,
+        "y": 2248699.568
+    },
+    "coords": {
+        "latitude": 6.24450684,
+        "longitude": -75.56890869
+    },
+    "order": 19,
+    "internalId": 30,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT031",
+    "name": "Iglesia Jesús de Nazareno",
+    
+    "tags": [
+        "iglesia",
+        "arquitectura",
+        "gótico"
+    ],
+    "category": "Iglesia",
+    "required": false,
+    "neighborhoodId": 1003,
+    "neighborhood": "Jesús Nazareno",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/parroquias/jesus-nazareno-2/",
+    "geometry": {
+        "x": 4716101.2013999997,
+        "y": 2250399.6283
+    },
+    "coords": {
+        "latitude": 6.2598877,
+        "longitude": -75.56671143
+    },
+    "order": 17,
+    "internalId": 31,
+    "description": "Iglesia destacada por su arquitectura gótica y vitrales coloridos.",
+    "risk": 0.4618123033
+},
+{
+    "id": "AT032",
+    "name": "Iglesia La Veracruz",
+    
+    "tags": [
+        "iglesia",
+        "historia",
+        "colonial"
+    ],
+    "category": "Iglesia",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/parroquias/la-veracruz/",
+    "geometry": {
+        "x": 4715785.7971999999,
+        "y": 2249449.2579000001
+    },
+    "coords": {
+        "latitude": 6.25128174,
+        "longitude": -75.56951904
+    },
+    "order": 15,
+    "internalId": 32,
+    "description": "Una de las iglesias más antiguas de Medellín, con arquitectura colonial y rica historia.",
+    "risk": 1.0
+},
+{
+    "id": "AT033",
+    "name": "Iglesia San José de El Poblado",
+    
+    "tags": [
+        "iglesia",
+        "El Poblado",
+        "historia"
+    ],
+    "category": "Iglesia",
+    "required": false,
+    "neighborhoodId": 1418,
+    "neighborhood": "El Poblado",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://arqmedellin.co/parroquias/san-jose-centro/",
+    "geometry": {
+        "x": 4715655.5049999999,
+        "y": 2244892.8650000002
+    },
+    "coords": {
+        "latitude": 6.21008301,
+        "longitude": -75.57049561
+    },
+    "order": 13,
+    "internalId": 33,
+    "description": "Iglesia ubicada en el Parque de El Poblado, conocida por su arquitectura y relevancia histórica.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT034",
+    "name": "Jardín Botánico Joaquín Antonio Uribe",
+    "description": "Espacio natural que alberga una amplia variedad de flora, ideal para quienes buscan tranquilidad y contacto con la naturaleza.",
+    "tags": [
+        "Naturaleza",
+        "Botánica",
+        "EspacioVerde"
+    ],
+    "category": "Jardín botánico",
+    "required": true,
+    "neighborhoodId": "Inst_10",
+    "neighborhood": "Jardín Botánico",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/jardin-botanico/",
+    "geometry": {
+        "x": 4716438.0554,
+        "y": 2251592.9322000002
+    },
+    "coords": {
+        "latitude": 6.27069092,
+        "longitude": -75.5637207
+    },
+    "order": 99,
+    "internalId": 34,
+    
+    "risk": 0.2605981392
+},
+{
+    "id": "AT035",
+    "name": "Jardín Morro de Moravia",
+    
+    "tags": [
+        "comunidad",
+        "transformación",
+        "jardín"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 405,
+    "neighborhood": "Moravia",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/moravia/",
+    "geometry": {
+        "x": 4715989.0256000003,
+        "y": 2252324.2544
+    },
+    "coords": {
+        "latitude": 6.27728272,
+        "longitude": -75.56781006
+    },
+    "order": 22,
+    "internalId": 35,
+    "description": "Antiguo basurero transformado en un jardín comunitario, símbolo de resiliencia y transformación urbana.",
+    "risk": 0.2605981392
+},
+{
+    "id": "AT036",
+    "name": "Milla de Oro",
+    
+    "tags": [
+        "negocios",
+        "comercio",
+        "moderno"
+    ],
+    "category": "Avenida y calle",
+    "required": false,
+    "neighborhoodId": 1416,
+    "neighborhood": "Alejandría",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://milladeoromedellin.com/",
+    "geometry": {
+        "x": 4715460.9585999995,
+        "y": 2243786.6203999999
+    },
+    "coords": {
+        "latitude": 6.20007324,
+        "longitude": -75.57220459
+    },
+    "order": 11,
+    "internalId": 36,
+    "description": "Zona financiera y comercial de Medellín, conocida por sus modernos edificios y centros comerciales.",
+    "risk": 0.1984281218
+},
+{
+    "id": "AT037",
+    "name": "Monumento a Carlos Gardel",
+    
+    "tags": [
+        "tango",
+        "Gardel",
+        "música"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": "Inst_19",
+    "neighborhood": "Parque Juan Pablo II",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4713855.9462000001,
+        "y": 2245786.0441999999
+    },
+    "coords": {
+        "latitude": 6.21807861,
+        "longitude": -75.58679199
+    },
+    "order": 46,
+    "internalId": 37,
+    "description": "Estatua en honor al legendario cantante de tango Carlos Gardel, ubicada cerca del aeropuerto Olaya Herrera.",
+    "risk": 0.2208368445
+},
+{
+    "id": "AT038",
+    "name": "Monumento a la Raza",
+    
+    "tags": [
+        "escultura",
+        "cultura",
+        "historia"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": "Inst_17",
+    "neighborhood": "Centro Administrativo",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/alpujarra-y-monumento-a-la-raza/",
+    "geometry": {
+        "x": 4715342.9216,
+        "y": 2248681.7899000002
+    },
+    "coords": {
+        "latitude": 6.24432373,
+        "longitude": -75.57348633
+    },
+    "order": 62,
+    "internalId": 38,
+    "description": "Imponente escultura que representa la historia y cultura antioqueña, situada en La Alpujarra.",
+    "risk": 1.0
+},
+{
+    "id": "AT039",
+    "name": "Monumento a La Vida",
+    
+    "tags": [
+        "escultura",
+        "naturaleza",
+        "vida"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": 1102,
+    "neighborhood": "Suramericana",
+    "districtId": 11,
+    "district": "Laureles Estadio",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4714740.4396000002,
+        "y": 2249812.1894999999
+    },
+    "coords": {
+        "latitude": 6.2545166,
+        "longitude": -75.57897949
+    },
+    "order": 52,
+    "internalId": 39,
+    "description": "Escultura que celebra la vida y la naturaleza, ubicada en el Cerro Nutibara.",
+    "risk": 1.0
+},
+{
+    "id": "AT041",
+    "name": "Monumento al Tango",
+    
+    "tags": [
+        "tango",
+        "música",
+        "cultura"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": "Inst_19",
+    "neighborhood": "Parque Juan Pablo II",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4713855.9462000001,
+        "y": 2245786.0441999999
+    },
+    "coords": {
+        "latitude": 6.21807861,
+        "longitude": -75.58679199
+    },
+    "order": 26,
+    "internalId": 41,
+    "description": "Monumento que rinde homenaje al tango y su influencia en la cultura local.",
+    "risk": 0.2208368445
+},
+{
+    "id": "AT042",
+    "name": "Monumento El Pájaro",
+    
+    "tags": [
+        "escultura",
+        "Botero",
+        "arte"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": 1311,
+    "neighborhood": "Belencito",
+    "districtId": 13,
+    "district": "San Javier",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4710506.4298999999,
+        "y": 2248833.9120999998
+    },
+    "coords": {
+        "latitude": 6.2454834,
+        "longitude": -75.6171875
+    },
+    "order": 32,
+    "internalId": 42,
+    "description": "Escultura de un pájaro, obra de Fernando Botero, ubicada en el Parque San Antonio.",
+    "risk": 0.1295165701
+},
+{
+    "id": "AT043",
+    "name": "Monumento Paloma de la Paz",
+    
+    "tags": [
+        "escultura",
+        "paz",
+        "Botero"
+    ],
+    "category": "Monumento",
+    "required": false,
+    "neighborhoodId": 1311,
+    "neighborhood": "Belencito",
+    "districtId": 13,
+    "district": "San Javier",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4710506.4298999999,
+        "y": 2248833.9120999998
+    },
+    "coords": {
+        "latitude": 6.2454834,
+        "longitude": -75.6171875
+    },
+    "order": 24,
+    "internalId": 43,
+    "description": "Escultura de una paloma, símbolo de la paz, creada por Fernando Botero.",
+    "risk": 0.1295165701
+},
+{
+    "id": "AT044",
+    "name": "Museo al Aire Libre Acueducto del Siglo XIX",
+    
+    "tags": [
+        "museo",
+        "historia",
+        "acueducto"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715819.3768999996,
+        "y": 2249408.5868000002
+    },
+    "coords": {
+        "latitude": 6.25091553,
+        "longitude": -75.56921387
+    },
+    "order": 7,
+    "internalId": 44,
+    "description": "Espacio que exhibe estructuras históricas del antiguo acueducto de Medellín.",
+    "risk": 1.0
+},
+{
+    "id": "AT045",
+    "name": "Museo Casa de la Memoria",
+    "description": "Espacio dedicado a la memoria histórica del conflicto armado en Colombia, promoviendo la reflexión y la paz.",
+    "tags": [
+        "Historia",
+        "Cultura",
+        "Memoria"
+    ],
+    "category": "Museo",
+    "required": true,
+    "neighborhoodId": 1016,
+    "neighborhood": "Boston",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/casa-museo-pedro-nel-gomez/",
+    "geometry": {
+        "x": 4717215.0778999999,
+        "y": 2248848.1956000002
+    },
+    "coords": {
+        "latitude": 6.24591064,
+        "longitude": -75.55657959
+    },
+    "order": 97,
+    "internalId": 45,
+    
+    "risk": 0.2244139852
+},
+{
+    "id": "AT046",
+    "name": "Museo Casa Gardeliana",
+    
+    "tags": [
+        "museo",
+        "Gardel",
+        "tango"
+    ],
+    "category": "Museo",
+    "required": false,
+    "neighborhoodId": 303,
+    "neighborhood": "Campo Valdés No.2",
+    "districtId": 3,
+    "district": "Manrique",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/casa-museo-gardeliana/",
+    "geometry": {
+        "x": 4717437.1728999997,
+        "y": 2251453.0329
+    },
+    "coords": {
+        "latitude": 6.26947021,
+        "longitude": -75.5546875
+    },
+    "order": 66,
+    "internalId": 46,
+    "description": "Casa museo que celebra la vida y legado de Carlos Gardel y el tango en Medellín.",
+    "risk": 0.1849794486
+},
+{
+    "id": "AT047",
+    "name": "Museo Cementerio San Pedro",
+    "description": "Cementerio histórico que funciona como museo, ofreciendo recorridos culturales y artísticos.",
+    "tags": [
+        "Historia",
+        "Cultura",
+        "ArteFunerario"
+    ],
+    "category": "Museo",
+    "required": true,
+    "neighborhoodId": 408,
+    "neighborhood": "San Pedro",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://cementeriosanpedro.org.co/",
+    "geometry": {
+        "x": 4716692.0514000002,
+        "y": 2251038.0991000002
+    },
+    "coords": {
+        "latitude": 6.26568603,
+        "longitude": -75.56140137
+    },
+    "order": 70,
+    "internalId": 47,
+    
+    "risk": 0.4618123033
+},
+{
+    "id": "AT048",
+    "name": "Museo de Antioquia",
+    "description": "Museo que alberga una amplia colección de arte de diferentes épocas y estilos, destacando obras de Fernando Botero.",
+    "tags": [
+        "Museo",
+        "Arte",
+        "Cultura"
+    ],
+    "category": "Museo",
+    "required": true,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/museo-de-antioquia/",
+    "geometry": {
+        "x": 4715853.9133000001,
+        "y": 2249563.6946
+    },
+    "coords": {
+        "latitude": 6.25231934,
+        "longitude": -75.56890869
+    },
+    "order": 91,
+    "internalId": 48,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT049",
+    "name": "Museo de Arte Moderno de Medellín",
+    
+    "tags": [
+        "museo",
+        "arte moderno",
+        "cultura"
+    ],
+    "category": "Museo",
+    "required": true,
+    "neighborhoodId": 1403,
+    "neighborhood": "Villa Carlota",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.elmamm.org/",
+    "geometry": {
+        "x": 4715264.1266999999,
+        "y": 2246380.0244999998
+    },
+    "coords": {
+        "latitude": 6.22351074,
+        "longitude": -75.57409668
+    },
+    "order": 96,
+    "internalId": 49,
+    "description": "El Museo de Arte Moderno de Medellín (MAMM) es un espacio cultural dinámico que ofrece una amplia gama de actividades. Además de sus exposiciones de arte contemporáneo, el MAMM cuenta con una sala de cine que proyecta películas de autor y cine independiente. También organiza talleres, charlas y eventos especiales que fomentan la interacción con el arte y la cultura. El museo dispone de una tienda con productos relacionados con el arte y una terraza que ofrece vistas panorámicas de la ciudad.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT050",
+    "name": "Museo del Agua",
+    
+    "tags": [
+        "educación",
+        "medio ambiente",
+        "familia"
+    ],
+    "category": "Museo",
+    "required": false,
+    "neighborhoodId": "Inst_16",
+    "neighborhood": "La Alpujarra",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.grupo-epm.com/site/museodelagua/",
+    "geometry": {
+        "x": 4715052.8578000003,
+        "y": 2248770.9739999999
+    },
+    "coords": {
+        "latitude": 6.24511719,
+        "longitude": -75.57611084
+    },
+    "order": 52,
+    "internalId": 50,
+    "description": "Espacio interactivo que educa sobre la importancia del agua y su conservación, ideal para todas las edades.",
+    "risk": 1.0
+},
+{
+    "id": "AT051",
+    "name": "Museo El Castillo",
+    "description": "Inspirado en los castillos góticos del valle del Loira en Francia, este museo alberga una colección de artes decorativas y ofrece jardines para pasear.",
+    "tags": [
+        "Museo",
+        "ArquitecturaHistórica",
+        "Jardines"
+    ],
+    "category": "Museo",
+    "required": true,
+    "neighborhoodId": 1414,
+    "neighborhood": "El Castillo",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.museoelcastillo.org/",
+    "geometry": {
+        "x": 4715766.4153000005,
+        "y": 2242684.7034
+    },
+    "coords": {
+        "latitude": 6.19012451,
+        "longitude": -75.56939697
+    },
+    "order": 78,
+    "internalId": 51,
+    
+    "risk": 0.1984281218
+},
+{
+    "id": "AT052",
+    "name": "Museo Etnográfico Madre Laura",
+    
+    "tags": [
+        "cultura",
+        "indígena",
+        "educación"
+    ],
+    "category": "Museo",
+    "required": false,
+    "neighborhoodId": 1311,
+    "neighborhood": "Belencito",
+    "districtId": 13,
+    "district": "San Javier",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://patrimoniomedellin.gov.co/proyectos/mdm/museos-de-medellin/museo-madre-laura/",
+    "geometry": {
+        "x": 4710526.8317999998,
+        "y": 2248860.8163000001
+    },
+    "coords": {
+        "latitude": 6.24572754,
+        "longitude": -75.61700439
+    },
+    "order": 64,
+    "internalId": 52,
+    "description": "Dedicado a la diversidad cultural de las comunidades indígenas de Colombia, exhibe artefactos y tradiciones ancestrales.",
+    "risk": 0.1295165701
+},
+{
+    "id": "AT053",
+    "name": "Palacio de Bellas Artes",
+    
+    "tags": [
+        "arte",
+        "educación",
+        "cultura"
+    ],
+    "category": "Centro de formación cultural",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716492.7588999998,
+        "y": 2248959.7269000001
+    },
+    "coords": {
+        "latitude": 6.24688721,
+        "longitude": -75.56311035
+    },
+    "order": 56,
+    "internalId": 53,
+    "description": "Edificio histórico que funciona como escuela de artes y centro cultural, ofreciendo exposiciones y eventos artísticos.",
+    "risk": 1.0
+},
+{
+    "id": "AT054",
+    "name": "Palacio de la Cultura Rafael Uribe Uribe",
+    
+    "tags": [
+        "arquitectura",
+        "cultura",
+        "historia"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://patrimoniomedellin.gov.co/proyectos/mdm/museos-de-medellin/palacio-de-la-cultura/",
+    "geometry": {
+        "x": 4715921.0399000002,
+        "y": 2249475.6017999998
+    },
+    "coords": {
+        "latitude": 6.25152588,
+        "longitude": -75.56829834
+    },
+    "order": 88,
+    "internalId": 54,
+    "description": "Majestuoso edificio de estilo gótico flamenco que alberga la Secretaría de Cultura y ofrece exposiciones y actividades culturales.",
+    "risk": 1.0
+},
+{
+    "id": "AT055",
+    "name": "Parque Ambiental Bosques de La Frontera",
+    
+    "tags": [
+        "naturaleza",
+        "senderismo",
+        "ecología"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1413,
+    "neighborhood": "El Diamante No.2",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715000.2636000002,
+        "y": 2242134.8193000001
+    },
+    "coords": {
+        "latitude": 6.18511963,
+        "longitude": -75.57629395
+    },
+    "order": 36,
+    "internalId": 55,
+    "description": "Espacio natural con senderos ecológicos, ideal para caminatas y observación de flora y fauna local.",
+    "risk": 0.1984281218
+},
+{
+    "id": "AT056",
+    "name": "Parque Biblioteca España",
+    
+    "tags": [
+        "educación",
+        "arquitectura",
+        "comunidad"
+    ],
+    "category": "Biblioteca",
+    "required": false,
+    "neighborhoodId": 101,
+    "neighborhood": "Santo Domingo Savio No.1",
+    "districtId": 1,
+    "district": "Popular",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4718619.3790999996,
+        "y": 2254235.4591999999
+    },
+    "coords": {
+        "latitude": 6.29467773,
+        "longitude": -75.54412842
+    },
+    "order": 82,
+    "internalId": 56,
+    "description": "Biblioteca pública con arquitectura moderna, ubicada en la Comuna 1, que ofrece servicios educativos y culturales a la comunidad.",
+    "risk": 0.130514042
+},
+{
+    "id": "AT057",
+    "name": "Parque de Berrío",
+    
+    "tags": [
+        "historia",
+        "cultura",
+        "urbano"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715974.1941,
+        "y": 2249293.0613000002
+    },
+    "coords": {
+        "latitude": 6.24987793,
+        "longitude": -75.56781006
+    },
+    "order": 58,
+    "internalId": 57,
+    "description": "Plaza central de Medellín, punto de encuentro histórico con esculturas y rodeada de edificios emblemáticos.",
+    "risk": 1.0
+},
+{
+    "id": "AT058",
+    "name": "Parque de Bolívar",
+    
+    "tags": [
+        "cultura",
+        "eventos",
+        "historia"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1018,
+    "neighborhood": "Villa Nueva",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716333.983,
+        "y": 2249649.1156000001
+    },
+    "coords": {
+        "latitude": 6.25311279,
+        "longitude": -75.5645752
+    },
+    "order": 60,
+    "internalId": 58,
+    "description": "Amplio parque urbano que alberga la Catedral Metropolitana y es escenario de eventos culturales y sociales.",
+    "risk": 0.4618123033
+},
+{
+    "id": "AT059",
+    "name": "Parque de El Poblado",
+    
+    "tags": [
+        "ocio",
+        "gastronomía",
+        "social"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1420,
+    "neighborhood": "Astorga",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715588.0754000004,
+        "y": 2244920.1971999998
+    },
+    "coords": {
+        "latitude": 6.21032715,
+        "longitude": -75.57110596
+    },
+    "order": 22,
+    "internalId": 59,
+    "description": "Pequeño parque en el corazón de El Poblado, rodeado de restaurantes y bares, ideal para relajarse y socializar.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT060",
+    "name": "Parque de los Deseos",
+    
+    "tags": [
+        "ciencia",
+        "educación",
+        "familia"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 407,
+    "neighborhood": "Sevilla",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/parque-de-los-deseos-y-casa-de-la-musica/",
+    "geometry": {
+        "x": 4716186.9210999999,
+        "y": 2251351.1198999998
+    },
+    "coords": {
+        "latitude": 6.26849365,
+        "longitude": -75.565979
+    },
+    "order": 76,
+    "internalId": 60,
+    "description": "Espacio público con instalaciones interactivas relacionadas con la ciencia y el universo, perfecto para aprender y divertirse.",
+    "risk": 0.2605981392
+},
+{
+    "id": "AT061",
+    "name": "Parque de los Pies Descalzos",
+    "description": "Parque interactivo que invita a los visitantes a caminar descalzos por diferentes superficies, promoviendo la relajación y el contacto con la naturaleza.",
+    "tags": [
+        "Recreación",
+        "Relajación",
+        "Naturaleza"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": "Inst_16",
+    "neighborhood": "La Alpujarra",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/parque-de-los-pies-descalzos/",
+    "geometry": {
+        "x": 4714944.5358999996,
+        "y": 2248724.2459999998
+    },
+    "coords": {
+        "latitude": 6.24468994,
+        "longitude": -75.5770874
+    },
+    "order": 86,
+    "internalId": 61,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT062",
+    "name": "Parque Explora",
+    "description": "Un parque interactivo de ciencia y tecnología que incluye un acuario y un planetario, ideal para aprender de manera lúdica.",
+    "tags": [
+        "Ciencia",
+        "Tecnología",
+        "EducaciónInteractiva"
+    ],
+    "category": "Parque temático y recreativo",
+    "required": true,
+    "neighborhoodId": "Inst_9",
+    "neighborhood": "Parque Norte",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/parque-explora/?lang=en",
+    "geometry": {
+        "x": 4716228.3118000003,
+        "y": 2251526.4471
+    },
+    "coords": {
+        "latitude": 6.27008057,
+        "longitude": -75.56561279
+    },
+    "order": 95,
+    "internalId": 62,
+    
+    "risk": 0.2605981392
+},
+{
+    "id": "AT063",
+    "name": "Parque Lineal La Presidenta",
+    
+    "tags": [
+        "naturaleza",
+        "senderismo",
+        "urbano"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1417,
+    "neighborhood": "La Florida",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715674.5932999998,
+        "y": 2244649.7310000001
+    },
+    "coords": {
+        "latitude": 6.20788574,
+        "longitude": -75.5703125
+    },
+    "order": 28,
+    "internalId": 63,
+    "description": "Sendero verde que sigue el cauce de la quebrada La Presidenta, ideal para caminatas y actividades al aire libre.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT064",
+    "name": "Parque Lleras",
+    
+    "tags": [
+        "ocio",
+        "vida nocturna",
+        "gastronomía"
+    ],
+    "category": "Parque urbano",
+    "required": false,
+    "neighborhoodId": 1418,
+    "neighborhood": "El Poblado",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/parque-lleras/",
+    "geometry": {
+        "x": 4715952.2481000004,
+        "y": 2244783.4065
+    },
+    "coords": {
+        "latitude": 6.20910644,
+        "longitude": -75.56781006
+    },
+    "order": 80,
+    "internalId": 64,
+    "description": "Epicentro de la vida nocturna en Medellín, rodeado de bares, discotecas y restaurantes de moda.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT065",
+    "name": "Parque Natural Metropolitano Cerro El Volador",
+    
+    "tags": [
+        "naturaleza",
+        "senderismo",
+        "vistas"
+    ],
+    "category": "Cerro",
+    "required": false,
+    "neighborhoodId": "Inst_7",
+    "neighborhood": "Ecoparque Cerro El Volador",
+    "districtId": 7,
+    "district": "Robledo",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/parque-natural-cerro-el-volador/",
+    "geometry": {
+        "x": 4714322.8778999997,
+        "y": 2251448.0372000001
+    },
+    "coords": {
+        "latitude": 6.26928711,
+        "longitude": -75.58282471
+    },
+    "order": 54,
+    "internalId": 65,
+    "description": "Área protegida que ofrece senderos ecológicos y vistas panorámicas de la ciudad, ideal para el avistamiento de aves.",
+    "risk": 0.2605981392
+},
+{
+    "id": "AT066",
+    "name": "Parque Natural Metropolitano Cerro Nutibara",
+    
+    "tags": [
+        "cultura",
+        "vistas",
+        "historia"
+    ],
+    "category": "Cerro",
+    "required": false,
+    "neighborhoodId": "Inst_18",
+    "neighborhood": "Cerro Nutibara",
+    "districtId": 16,
+    "district": "Belén",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
+    "geometry": {
+        "x": 4714629.3438999997,
+        "y": 2247821.1282000002
+    },
+    "coords": {
+        "latitude": 6.23651123,
+        "longitude": -75.57989502
+    },
+    "order": 74,
+    "internalId": 66,
+    "description": "Colina que alberga el Pueblito Paisa, una réplica de un pueblo tradicional antioqueño, y ofrece vistas de 360 grados de Medellín.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT067",
+    "name": "Parque Norte J. Emilio Valderrama",
+    
+    "tags": [
+        "diversión",
+        "familia",
+        "atracciones"
+    ],
+    "category": "Parque temático y recreativo",
+    "required": false,
+    "neighborhoodId": "Inst_9",
+    "neighborhood": "Parque Norte",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://parquenorte.gov.co/",
+    "geometry": {
+        "x": 4715946.0120999999,
+        "y": 2251818.1288000001
+    },
+    "coords": {
+        "latitude": 6.27270508,
+        "longitude": -75.56817627
+    },
+    "order": 42,
+    "internalId": 67,
+    "description": "Parque de atracciones con juegos mecánicos, lago y áreas verdes, ideal para un día en familia.",
+    "risk": 0.2605981392
+},
+{
+    "id": "AT068",
+    "name": "Parque Regional Ecoturístico Arví",
+    
+    "tags": [
+        "naturaleza",
+        "ecoturismo",
+        "aventura"
+    ],
+    "category": "Áreas con declaratorias departamentales",
+    "required": true,
+    "neighborhoodId": 9003,
+    "neighborhood": "Piedras Blancas - Matasano",
+    "districtId": 90,
+    "district": "Corregimiento de Santa Elena",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/medellin-arvi-park/?lang=en",
+    "geometry": {
+        "x": 4722304.7231000001,
+        "y": 2253643.7999
+    },
+    "coords": {
+        "latitude": 6.28948975,
+        "longitude": -75.51080322
+    },
+    "order": 89,
+    "internalId": 68,
+    "description": "Reserva natural con senderos, actividades al aire libre y acceso en metrocable, perfecta para escapar del bullicio urbano.",
+    "risk": 0.1849794486
+},
+{
+    "id": "AT069",
+    "name": "Parque de la Conservación",
+    
+    "tags": [
+        "conservación",
+        "educación",
+        "naturaleza"
+    ],
+    "category": "Otro",
+    "required": true,
+    "neighborhoodId": 1504,
+    "neighborhood": "Santa Fé",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.parquedelaconservacion.com/",
+    "geometry": {
+        "x": 4714655.9934,
+        "y": 2246362.7379000001
+    },
+    "coords": {
+        "latitude": 6.22332764,
+        "longitude": -75.57958984
+    },
+    "order": 16,
+    "internalId": 69,
+    "description": "Antiguo zoológico de Medellín, transformado en un espacio dedicado a la conservación y educación ambiental.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT070",
+    "name": "Paseo Bolívar",
+    
+    "tags": [
+        "compras",
+        "urbano",
+        "social"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1007,
+    "neighborhood": "Guayaquil",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715715.5369999995,
+        "y": 2248896.0063999998
+    },
+    "coords": {
+        "latitude": 6.24627686,
+        "longitude": -75.57012939
+    },
+    "order": 1,
+    "internalId": 70,
+    "description": "Avenida peatonal en el centro de Medellín, con tiendas, cafés y ambiente vibrante.",
+    "risk": 1.0
+},
+{
+    "id": "AT071",
+    "name": "Paseo Peatonal Ayacucho",
+    
+    "tags": [
+        "tranvía",
+        "cultura",
+        "comercio"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 907,
+    "neighborhood": "Buenos Aires",
+    "districtId": 9,
+    "district": "Buenos Aires",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4717267.2866000002,
+        "y": 2248469.8813999998
+    },
+    "coords": {
+        "latitude": 6.24249268,
+        "longitude": -75.55609131
+    },
+    "order": 2,
+    "internalId": 71,
+    "description": "Calle peatonal que combina el tranvía con espacios culturales y comerciales, reflejando la transformación urbana.",
+    "risk": 0.2244139852
+},
+{
+    "id": "AT072",
+    "name": "Paseo Peatonal Carabobo",
+    
+    "tags": [
+        "comercio",
+        "historia",
+        "peatonal"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715812.8192999996,
+        "y": 2249449.1258999999
+    },
+    "coords": {
+        "latitude": 6.25128174,
+        "longitude": -75.5692749
+    },
+    "order": 4,
+    "internalId": 72,
+    "description": "Vibrante corredor peatonal en el centro de Medellín, repleto de tiendas, restaurantes y edificios históricos.",
+    "risk": 1.0
+},
+{
+    "id": "AT073",
+    "name": "Paseo Peatonal de Junín",
+    
+    "tags": [
+        "cafés",
+        "bohemio",
+        "peatonal"
+    ],
+    "category": "Sector urbano o rural de interés",
+    "required": false,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716231.7939999998,
+        "y": 2249474.0847
+    },
+    "coords": {
+        "latitude": 6.25152588,
+        "longitude": -75.56549072
+    },
+    "order": 4,
+    "internalId": 73,
+    "description": "Tradicional calle peatonal conocida por sus cafés, tiendas y ambiente bohemio en el corazón de la ciudad.",
+    "risk": 1.0
+},
+{
+    "id": "AT074",
+    "name": "Paseo Provenza",
+    
+    "tags": [
+        "vida nocturna",
+        "gastronomía",
+        "cosmopolita"
+    ],
+    "category": "Avenida y calle",
+    "required": false,
+    "neighborhoodId": 1417,
+    "neighborhood": "La Florida",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716228.0695000002,
+        "y": 2244539.0290000001
+    },
+    "coords": {
+        "latitude": 6.20690918,
+        "longitude": -75.56530762
+    },
+    "order": 6,
+    "internalId": 74,
+    "description": "Zona de El Poblado famosa por su vida nocturna, restaurantes de moda y ambiente cosmopolita.",
+    "risk": 0.3775259257
+},
+{
+    "id": "AT075",
+    "name": "Pequeño Teatro",
+    
+    "tags": [
+        "teatro",
+        "cultura",
+        "arte"
+    ],
+    "category": "Teatro",
+    "required": false,
+    "neighborhoodId": 1016,
+    "neighborhood": "Boston",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.pequenoteatro.com/",
+    "geometry": {
+        "x": 4716661.9767000005,
+        "y": 2249026.4139
+    },
+    "coords": {
+        "latitude": 6.24749756,
+        "longitude": -75.56158447
+    },
+    "order": 10,
+    "internalId": 75,
+    "description": "Espacio cultural que ofrece obras de teatro y eventos artísticos en un ambiente íntimo y acogedor.",
+    "risk": 1.0
+},
+{
+    "id": "AT076",
+    "name": "Placita de Flórez",
+    
+    "tags": [
+        "mercado",
+        "tradición",
+        "artesanías"
+    ],
+    "category": "Plaza de mercado",
+    "required": false,
+    "neighborhoodId": 1016,
+    "neighborhood": "Boston",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/cual-es-la-historia-de-la-placita-de-florez-en-medellin-y-su-relacion-con-los-silleteros/",
+    "geometry": {
+        "x": 4716870.7418,
+        "y": 2248890.3758999999
+    },
+    "coords": {
+        "latitude": 6.24627686,
+        "longitude": -75.55969238
+    },
+    "order": 8,
+    "internalId": 76,
+    "description": "Mercado tradicional donde se encuentran productos frescos, flores y artesanías locales.",
+    "risk": 1.0
+},
+{
+    "id": "AT077",
+    "name": "Planetario Municipal de Medellín Jesús Emilio Ramírez González",
+    
+    "tags": [
+        "ciencia",
+        "astronomía",
+        "educación"
+    ],
+    "category": "Planetario",
+    "required": true,
+    "neighborhoodId": 407,
+    "neighborhood": "Sevilla",
+    "districtId": 4,
+    "district": "Aranjuez",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.planetariomedellin.org/quienes-somos",
+    "geometry": {
+        "x": 4716187.2514000004,
+        "y": 2251418.6298000002
+    },
+    "coords": {
+        "latitude": 6.269104,
+        "longitude": -75.565979
+    },
+    "order": 84,
+    "internalId": 77,
+    "description": "Centro de divulgación científica con exhibiciones sobre astronomía y proyecciones en su domo.",
+    "risk": 0.2605981392
+},
+{
+    "id": "AT078",
+    "name": "Plaza Botero",
+    "description": "Espacio público que exhibe esculturas del maestro Fernando Botero, convirtiéndose en un museo al aire libre.",
+    "tags": [
+        "Arte",
+        "Cultura",
+        "EspacioPúblico"
+    ],
+    "category": "Plaza",
+    "required": true,
+    "neighborhoodId": 1019,
+    "neighborhood": "La Candelaria",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/botero-square-of-medellin/?lang=en",
+    "geometry": {
+        "x": 4715934.9797,
+        "y": 2249563.2985999999
+    },
+    "coords": {
+        "latitude": 6.25231934,
+        "longitude": -75.56817627
+    },
+    "order": 98,
+    "internalId": 78,
+    
+    "risk": 1.0
+},
+{
+    "id": "AT079",
+    "name": "Plaza Cisneros",
+    
+    "tags": [
+        "arquitectura",
+        "iluminación",
+        "moderno"
+    ],
+    "category": "Plaza",
+    "required": false,
+    "neighborhoodId": 1007,
+    "neighborhood": "Guayaquil",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.centrodemedellin.co/ArticulosView.aspx?id=120",
+    "geometry": {
+        "x": 4715472.2357999999,
+        "y": 2248876.9416
+    },
+    "coords": {
+        "latitude": 6.24609375,
+        "longitude": -75.57232666
+    },
+    "order": 68,
+    "internalId": 79,
+    "description": "También conocida como Plaza de la Luz, destaca por sus altas torres iluminadas y su diseño moderno.",
+    "risk": 1.0
+},
+{
+    "id": "AT080",
+    "name": "Plaza Gardel",
+    
+    "tags": [
+        "tango",
+        "Gardel",
+        "música"
+    ],
+    "category": "Plaza",
+    "required": false,
+    "neighborhoodId": "Inst_19",
+    "neighborhood": "Parque Juan Pablo II",
+    "districtId": 15,
+    "district": "Guayabal",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://gardelplaza.com/",
+    "geometry": {
+        "x": 4713855.9462000001,
+        "y": 2245786.0441999999
+    },
+    "coords": {
+        "latitude": 6.21807861,
+        "longitude": -75.58679199
+    },
+    "order": 34,
+    "internalId": 80,
+    "description": "Plaza que rinde homenaje al cantante de tango Carlos Gardel, ubicada cerca del aeropuerto Olaya Herrera.",
+    "risk": 0.2208368445
+},
+{
+    "id": "AT081",
+    "name": "Plaza Mayor Medellín Convenciones y Exposiciones",
+    
+    "tags": [
+        "eventos",
+        "convenciones",
+        "exposiciones"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": "Inst_16",
+    "neighborhood": "La Alpujarra",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/plaza-mayor-convenciones-y-exposiciones/",
+    "geometry": {
+        "x": 4715017.9891999997,
+        "y": 2248548.3555000001
+    },
+    "coords": {
+        "latitude": 6.24310303,
+        "longitude": -75.57641602
+    },
+    "order": 100,
+    "internalId": 81,
+    "description": "Complejo de convenciones y eventos que alberga ferias, exposiciones y congresos internacionales.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT082",
+    "name": "Plaza Minorista José María Villa",
+    
+    "tags": [
+        "mercado",
+        "alimentos",
+        "comercio"
+    ],
+    "category": "Plaza de mercado",
+    "required": false,
+    "neighborhoodId": 1006,
+    "neighborhood": "San Benito",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.plazaminorista.com/sitio/inicio",
+    "geometry": {
+        "x": 4715437.7801000001,
+        "y": 2250119.3256999999
+    },
+    "coords": {
+        "latitude": 6.25732422,
+        "longitude": -75.57269287
+    },
+    "order": 30,
+    "internalId": 82,
+    "description": "Gran mercado donde se comercializan productos frescos, alimentos y mercancías al por mayor y al detal.",
+    "risk": 0.4618123033
+},
+{
+    "id": "AT083",
+    "name": "Pueblito Paisa",
+    "description": "Reproducción de un típico pueblo antioqueño ubicado en el Cerro Nutibara, ofreciendo vistas panorámicas de la ciudad.",
+    "tags": [
+        "CulturaTradicional",
+        "Mirador",
+        "ArquitecturaTípica"
+    ],
+    "category": "Plaza",
+    "required": false,
+    "neighborhoodId": "Inst_18",
+    "neighborhood": "Cerro Nutibara",
+    "districtId": 16,
+    "district": "Belén",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/pueblito-paisa-cerro-nutibara/",
+    "geometry": {
+        "x": 4714595.3335999995,
+        "y": 2247774.0362999998
+    },
+    "coords": {
+        "latitude": 6.23608398,
+        "longitude": -75.5802002
+    },
+    "order": 92,
+    "internalId": 83,
+    
+    "risk": 0.371059556
+},
+{
+    "id": "AT084",
+    "name": "Puente de Guayaquil",
+    
+    "tags": [
+        "historia",
+        "arquitectura",
+        "conexión"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": "Inst_18",
+    "neighborhood": "Cerro Nutibara",
+    "districtId": 16,
+    "district": "Belén",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4715094.0740999999,
+        "y": 2247528.5543999998
+    },
+    "coords": {
+        "latitude": 6.23388672,
+        "longitude": -75.57568359
+    },
+    "order": 10,
+    "internalId": 84,
+    "description": "Histórico puente que conecta el centro de Medellín con el occidente, símbolo del desarrollo urbano.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT085",
+    "name": "Santuario Santa Laura Montoya",
+    
+    "tags": [
+        "religión",
+        "historia",
+        "cultura"
+    ],
+    "category": "Convento",
+    "required": false,
+    "neighborhoodId": 1311,
+    "neighborhood": "Belencito",
+    "districtId": 13,
+    "district": "San Javier",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4710526.8317999998,
+        "y": 2248860.8163000001
+    },
+    "coords": {
+        "latitude": 6.24572754,
+        "longitude": -75.61700439
+    },
+    "order": 12,
+    "internalId": 85,
+    "description": "Iglesia dedicada a la primera santa colombiana, ubicada en el barrio Belencito.",
+    "risk": 0.1295165701
+},
+{
+    "id": "AT086",
+    "name": "Teatro Lido",
+    
+    "tags": [
+        "teatro",
+        "cultura",
+        "arte"
+    ],
+    "category": "Teatro",
+    "required": false,
+    "neighborhoodId": 1018,
+    "neighborhood": "Villa Nueva",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/teatro-lido/",
+    "geometry": {
+        "x": 4716333.5548999999,
+        "y": 2249561.3530000001
+    },
+    "coords": {
+        "latitude": 6.25231934,
+        "longitude": -75.5645752
+    },
+    "order": 14,
+    "internalId": 86,
+    "description": "Teatro histórico que ofrece una variedad de espectáculos culturales y artísticos en el centro de la ciudad.",
+    "risk": 0.4618123033
+},
+{
+    "id": "AT087",
+    "name": "Teatro Metropolitano de Medellín José Gutiérrez Gómez",
+    
+    "tags": [
+        "conciertos",
+        "ópera",
+        "cultura"
+    ],
+    "category": "Teatro",
+    "required": false,
+    "neighborhoodId": "Inst_16",
+    "neighborhood": "La Alpujarra",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.teatrometropolitano.com/",
+    "geometry": {
+        "x": 4714889.6311999997,
+        "y": 2248548.9837000002
+    },
+    "coords": {
+        "latitude": 6.24310303,
+        "longitude": -75.57757568
+    },
+    "order": 48,
+    "internalId": 87,
+    "description": "Principal escenario de la ciudad para conciertos, óperas y eventos culturales de gran envergadura.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT088",
+    "name": "Teatro Pablo Tobón Uribe",
+    
+    "tags": [
+        "teatro",
+        "conciertos",
+        "cultura"
+    ],
+    "category": "Teatro",
+    "required": false,
+    "neighborhoodId": 1016,
+    "neighborhood": "Boston",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.teatropablotobon.com/",
+    "geometry": {
+        "x": 4716925.4429000001,
+        "y": 2249025.1318999999
+    },
+    "coords": {
+        "latitude": 6.24749756,
+        "longitude": -75.5592041
+    },
+    "order": 32,
+    "internalId": 88,
+    "description": "Emblemático teatro que ofrece una programación variada de obras, conciertos y eventos culturales.",
+    "risk": 1.0
+},
+{
+    "id": "AT089",
+    "name": "Teatro Prado el Águila Descalza",
+    
+    "tags": [
+        "teatro",
+        "comedia",
+        "cultura"
+    ],
+    "category": "Teatro",
+    "required": false,
+    "neighborhoodId": 1017,
+    "neighborhood": "Los Ángeles",
+    "districtId": 10,
+    "district": "La Candelaria",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.aguiladescalza.com.co/",
+    "geometry": {
+        "x": 4716773.9446,
+        "y": 2249822.4996000002
+    },
+    "coords": {
+        "latitude": 6.25469971,
+        "longitude": -75.56060791
+    },
+    "order": 12,
+    "internalId": 89,
+    "description": "Espacio cultural conocido por sus presentaciones de teatro y comedia, sede del grupo El Águila Descalza.",
+    "risk": 0.4618123033
+},
+{
+    "id": "AT090",
+    "name": "Unidad Deportiva Atanasio Girardot",
+    
+    "tags": [
+        "deporte",
+        "fútbol",
+        "recreación"
+    ],
+    "category": "Otro",
+    "required": false,
+    "neighborhoodId": "Inst_14",
+    "neighborhood": "U.D. Atanasio Girardot",
+    "districtId": 11,
+    "district": "Laureles Estadio",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://www.medellin.travel/unidad-deportiva-atanasio-girardot/",
+    "geometry": {
+        "x": 4713518.8777000001,
+        "y": 2250061.2423
+    },
+    "coords": {
+        "latitude": 6.25671387,
+        "longitude": -75.59002686
+    },
+    "order": 54,
+    "internalId": 90,
+    "description": "Complejo deportivo que incluye el estadio de fútbol, piscinas y otras instalaciones para diversas disciplinas.",
+    "risk": 0.5449636267
+},
+{
+    "id": "AT091",
+    "name": "Unidad Deportiva de Belén Andrés Escobar Saldarriaga",
+    
+    "tags": [
+        "deporte",
+        "recreación",
+        "comunidad"
+    ],
+    "category": "Estadio",
+    "required": false,
+    "neighborhoodId": 1602,
+    "neighborhood": "Rosales",
+    "districtId": 16,
+    "district": "Belén",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "https://filmedellin.com/locaciones/unidad-deportiva-de-belen/",
+    "geometry": {
+        "x": 4713784.6359999999,
+        "y": 2247778.0103000002
+    },
+    "coords": {
+        "latitude": 6.23608398,
+        "longitude": -75.58752441
+    },
+    "order": 20,
+    "internalId": 91,
+    "description": "Complejo deportivo con canchas, piscinas y espacios para actividades físicas y recreativas.",
+    "risk": 0.371059556
+},
+{
+    "id": "AT092",
+    "name": "Vía Primavera",
+    
+    "tags": [
+        "moda",
+        "cafés",
+        "bohemio"
+    ],
+    "category": "Avenida y calle",
+    "required": false,
+    "neighborhoodId": 1418,
+    "neighborhood": "El Poblado",
+    "districtId": 14,
+    "district": "El Poblado",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "website": "",
+    "geometry": {
+        "x": 4716032.7972999997,
+        "y": 2244674.9978
+    },
+    "coords": {
+        "latitude": 6.20812988,
+        "longitude": -75.56707764
+    },
+    "order": 22,
+    "internalId": 92,
+    "description": "Calle en El Poblado conocida por sus boutiques de moda, cafés y ambiente bohemio.",
+    "risk": 0.3775259257
+}
+]
